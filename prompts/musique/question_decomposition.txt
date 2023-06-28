@@ -1,0 +1,234 @@
+# METADATA: {"qid": "2hop__292995_8796"}
+QC: When was Neville A. Stanton's employer founded?
+QS: (select) [retrieve_odqa] Who is the employer of Neville A. Stanton?
+A: {"titles": ["Harriot Stanton Blatch", "Robichaud v Canada (Treasury Board)", "The Peggy Neville Show", "Stanton Township, Champaign County, Illinois", "Women's suffrage in the United States", "Neville A. Stanton"], "answer": ["University of Southampton"]}
+QS: (select) [retrieve_odqa] When was the University of Southampton founded?
+A: {"titles": ["Southampton", "Presley Neville"], "answer": ["1862"]}
+QS: (select) [multihop_titleqa] Titles: ["Harriot Stanton Blatch", "Robichaud v Canada (Treasury Board)", "The Peggy Neville Show", "Stanton Township, Champaign County, Illinois", "Women's suffrage in the United States", "Neville A. Stanton", "Southampton", "Presley Neville"]. Question: When was Neville A. Stanton's employer founded?
+A: ["1862"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__154225_727337"}
+QC: What is the headquarters for the organization who sets the standards for ISO 21500?
+QS: (select) [retrieve_odqa] Who sets the standards for ISO 21500?
+A: {"titles": ["ISO 3166-2:BM", "ISO 3166-2:IS", "ISO 3166-2:IT", "ISO 3166-2:BB", "ISO 21500", "ISO 3166-2:ET", "ISO 3166-2:AT", "ISO 3166-2:CG", "ISO 22000"], "answer": ["International Organization for Standardization"]}
+QS: (select) [retrieve_odqa] Where is the headquarters for International Organization for Standardization?
+A: {"titles": ["International Organization for Standardization", "ISO 4031", "ISO 3166-2:CN", "Unicode", "ISO 3166-2:GH", "ISO 3166-2:AO", "ISO/TC 68", "ISO 7001", "ISO 3307"], "answer": ["Geneva"]}
+QS: (select) [multihop_titleqa] Titles: ["ISO 3166-2:BM", "ISO 3166-2:IS", "ISO 3166-2:IT", "ISO 3166-2:BB", "ISO 21500", "ISO 3166-2:ET", "ISO 3166-2:AT", "ISO 3166-2:CG", "ISO 22000", "International Organization for Standardization", "ISO 4031", "ISO 3166-2:CN", "Unicode", "ISO 3166-2:GH", "ISO 3166-2:AO", "ISO/TC 68", "ISO 7001", "ISO 3307"]. Question: What is the headquarters for the organization who sets the standards for ISO 21500?
+A: ["Geneva"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__642271_608104"}
+QC: What region of the state where Guy Shepherdson was born, contains SMA Negeri 68?
+QS: (select) [retrieve_odqa] Where was Guy Shepherdson born in?
+A: {"titles": ["Ahmad Fuadi", "Dallol (woreda)", "Tuanku Jaafar Power Station", "Territory of Papua", "Union territory", "Labohan Dagang–Nilai Route", "Guy Shepherdson"], "answer": ["Jakarta"]}
+QS: (select) [retrieve_odqa] Where is SMA Negeri 68 Jakarta is located?
+A: {"titles": ["Zec Bras-Coupé–Désert", "Vilnius County", "SMA Negeri 68 Jakarta"], "answer": ["Central Jakarta"]}
+QS: (select) [multihop_titleqa] Titles: ["Ahmad Fuadi", "Dallol (woreda)", "Tuanku Jaafar Power Station", "Territory of Papua", "Union territory", "Labohan Dagang–Nilai Route", "Guy Shepherdson", "Zec Bras-Coupé–Désert", "Vilnius County", "SMA Negeri 68 Jakarta"]. Question: What region of the state where Guy Shepherdson was born, contains SMA Negeri 68?
+A: ["Central Jakarta"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__782642_52667"}
+QC: When was the first railway line constructed between Kotri and the city where Marie Adelaide Leprosy Centre is located?
+QS: (select) [retrieve_odqa] In which city is Marie Adelaide Leprosy Centre located?
+A: {"titles": ["Yangmok Station", "Somerset", "Tveita (station)", "VR warehouses", "Yamanote Line", "Marie Adelaide Leprosy Centre", "Nanjing", "Caythorpe railway station", "Southampton"], "answer": ["Karachi"]}
+QS: (select) [retrieve_odqa] When was the first railway line between Kotri and Karachi constructed?
+A: {"titles": ["Zwiesel–Bodenmais railway", "Alice Springs Correctional Centre", "Kotri Junction railway station", "Brienzwiler railway station", "Bretten station", "Victoria (Australia)", "City and Brixton Railway", "Cowwarr railway station"], "answer": ["April 1858"]}
+QS: (select) [multihop_titleqa] Titles: ["Yangmok Station", "Somerset", "Tveita (station)", "VR warehouses", "Yamanote Line", "Marie Adelaide Leprosy Centre", "Nanjing", "Caythorpe railway station", "Southampton", "Zwiesel–Bodenmais railway", "Alice Springs Correctional Centre", "Kotri Junction railway station", "Brienzwiler railway station", "Bretten station", "Victoria (Australia)", "City and Brixton Railway", "Cowwarr railway station"]. Question: When was the first railway line constructed between Kotri and the city where Marie Adelaide Leprosy Centre is located?
+A: ["April 1858"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__439265_539716"}
+QC: What county is Hebron located in, in the same province the Heritage Places Protection Act applies to?
+QS: (select) [retrieve_odqa] Heritage Places Protection Act applies to the jurisdiction of what?
+A: {"titles": ["Biblioteca Ayacucho", "Heritage Places Protection Act", "Trinidad and Tobago Police Service", "Bogotá", "Federal Bureau of Investigation", "Hebron, Maine", "Drunk driving in the United States", "Uluṟu-Kata Tjuṯa National Park"], "answer": ["Prince Edward Island"]}
+QS: (select) [retrieve_odqa] Hebron, Prince Edward Island is located in what county?
+A: {"titles": ["Founders Peaks", "Hebron, Prince Edward Island", "Scottish Reformation Parliament"], "answer": ["Prince County"]}
+QS: (select) [multihop_titleqa] Titles: ["Biblioteca Ayacucho", "Heritage Places Protection Act", "Trinidad and Tobago Police Service", "Bogotá", "Federal Bureau of Investigation", "Hebron, Maine", "Drunk driving in the United States", "Uluṟu-Kata Tjuṯa National Park", "Founders Peaks", "Hebron, Prince Edward Island", "Scottish Reformation Parliament"]. Question: What county is Hebron located in, in the same province the Heritage Places Protection Act applies to?
+A: ["Prince County"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__323282_79175"}
+QC: When did the first large winter carnival take place in the city where CIMI-FM is licensed to broadcast?
+QS: (select) [retrieve_odqa] What city is CIMI-FM is licensed to broadcast in?
+A: {"titles": ["KWMZ-FM", "CIMI-FM", "KSAO (FM)", "WTTL-FM", "KOLU", "WORW", "WLRX (FM)"], "answer": ["Quebec City"]}
+QS: (select) [retrieve_odqa] When did the first large winter carnival in Quebec City take place?
+A: {"titles": ["WRQY", "Quebec Winter Carnival", "KBCR-FM"], "answer": ["1894"]}
+QS: (select) [multihop_titleqa] Titles: ["KWMZ-FM", "CIMI-FM", "KSAO (FM)", "WTTL-FM", "KOLU", "WORW", "WLRX (FM)", "WRQY", "Quebec Winter Carnival", "KBCR-FM"]. Question: When did the first large winter carnival take place in the city where CIMI-FM is licensed to broadcast?
+A: ["1894"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__427213_79175"}
+QC: When did the first large winter carnival happen in Olivier Robitaille's place of birth?
+QS: (select) [retrieve_odqa] What is the place of birth of Olivier Robitaille?
+A: {"titles": ["Allister de Winter", "Karl-August Tiirmaa", "Olivier Robitaille"], "answer": ["Quebec City"]}
+QS: (select) [retrieve_odqa] When did the first large winter carnival in Quebec City happened?
+A: {"titles": ["Drop Dead Diva", "The Rapture (novel)", "Carnival", "Carinhall", "Quebec Winter Carnival", "Nordic combined at the 2002 Winter Olympics", "Don't Tell Alfred"], "answer": ["1894"]}
+QS: (select) [multihop_titleqa] Titles: ["Allister de Winter", "Karl-August Tiirmaa", "Olivier Robitaille", "Drop Dead Diva", "The Rapture (novel)", "Carnival", "Carinhall", "Quebec Winter Carnival", "Nordic combined at the 2002 Winter Olympics", "Don't Tell Alfred"]. Question: When did the first large winter carnival happen in Olivier Robitaille's place of birth?
+A: ["1894"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__387702_20661"}
+QC: When did Britain withdraw from the country containing Hoora?
+QS: (select) [retrieve_odqa] Hoora is in what country?
+A: {"titles": ["Freemasonry", "History of Cuba", "Hoora", "Treaty", "Sailing at the 1900 Summer Olympics – 3 to 10 ton", "Cameroon"], "answer": ["Bahrain"]}
+QS: (select) [retrieve_odqa] When did Britain withdrew from Bahrain?
+A: {"titles": ["Lancashire", "British Empire", "Currency transaction report", "All You Need Is Love", "Eligibility for the NBA draft", "Dwight D. Eisenhower"], "answer": ["1971"]}
+QS: (select) [multihop_titleqa] Titles: ["Freemasonry", "History of Cuba", "Hoora", "Treaty", "Sailing at the 1900 Summer Olympics – 3 to 10 ton", "Cameroon", "Lancashire", "British Empire", "Currency transaction report", "All You Need Is Love", "Eligibility for the NBA draft", "Dwight D. Eisenhower"]. Question: When did Britain withdraw from the country containing Hoora?
+A: ["1971"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__195347_20661"}
+QC: When did Britain withdraw from the country where the village of Wadyan is found?
+QS: (select) [retrieve_odqa] In which country is the village of Wadyan found?
+A: {"titles": ["Wadyan", "United Kingdom", "Eligibility for the NBA draft", "Eurovision Song Contest 2018", "Currency transaction report", "Cameroon"], "answer": ["Bahrain"]}
+QS: (select) [retrieve_odqa] When did Britain withdraw from Bahrain?
+A: {"titles": ["Lancashire", "Dwight D. Eisenhower", "British Empire", "History of Cuba", "Freemasonry"], "answer": ["1971"]}
+QS: (select) [multihop_titleqa] Titles: ["Wadyan", "United Kingdom", "Eligibility for the NBA draft", "Eurovision Song Contest 2018", "Currency transaction report", "Cameroon", "Lancashire", "Dwight D. Eisenhower", "British Empire", "History of Cuba", "Freemasonry"]. Question: When did Britain withdraw from the country where the village of Wadyan is found?
+A: ["1971"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__861128_15822"}
+QC: What did the publisher of Banjo-Tooie rely primarily on for its support?
+QS: (select) [retrieve_odqa] Who is the publisher of Banjo-Tooie?
+A: {"titles": ["National Zoo of Malaysia", "Protestantism", "Layer 2 Tunneling Protocol", "Oklahoma City", "Redneck Rampage", "Maurice Bolyer", "Banjo-Tooie", "Billy Redden", "Billy Redden"], "answer": ["Nintendo"]}
+QS: (select) [retrieve_odqa] Nintendo relied primarily for its support on what?
+A: {"titles": ["Oklahoma City", "Alec Forbes of Howglen", "Nintendo Entertainment System"], "answer": ["first-party games"]}
+QS: (select) [multihop_titleqa] Titles: ["National Zoo of Malaysia", "Protestantism", "Layer 2 Tunneling Protocol", "Oklahoma City", "Redneck Rampage", "Maurice Bolyer", "Banjo-Tooie", "Billy Redden", "Billy Redden", "Oklahoma City", "Alec Forbes of Howglen", "Nintendo Entertainment System"]. Question: What did the publisher of Banjo-Tooie rely primarily on for its support?
+A: ["first-party games"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__496817_701819"}
+QC: What shares a border with Rivière-Verte in the province WRSU-FM broadcasts in?
+QS: (select) [retrieve_odqa] What was WRSU-FM licensed to broadcast to?
+A: {"titles": ["WKCY-FM", "KSAO (FM)", "WRQY", "KBHM", "KELD-FM", "WRSU-FM", "CKIS-FM", "WGCK-FM"], "answer": ["New Brunswick"]}
+QS: (select) [retrieve_odqa] What does Rivière-Verte, New Brunswick share border with?
+A: {"titles": ["WANT", "Rivière-Verte, New Brunswick", "WLRX (FM)"], "answer": ["Edmundston"]}
+QS: (select) [multihop_titleqa] Titles: ["WKCY-FM", "KSAO (FM)", "WRQY", "KBHM", "KELD-FM", "WRSU-FM", "CKIS-FM", "WGCK-FM", "WANT", "Rivière-Verte, New Brunswick", "WLRX (FM)"]. Question: What shares a border with Rivière-Verte in the province WRSU-FM broadcasts in?
+A: ["Edmundston"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__804754_52230"}
+QC: When was the state of emergency declared in the country where the Senate is located?
+QS: (select) [retrieve_odqa] In which country is the senate?
+A: {"titles": ["Declaration of war by the United States", "Martin Mejstřík", "United States Senate", "Senate of Kenya", "United States"], "answer": ["Kenya"]}
+QS: (select) [retrieve_odqa] When was the state of emergency declared in Kenya?
+A: {"titles": ["Treaty Clause", "Great power", "Mau Mau Uprising", "Declaration of the Rights of Man and of the Citizen", "United States Senate", "United States declaration of war upon Germany (1941)"], "answer": ["20 October 1952"]}
+QS: (select) [multihop_titleqa] Titles: ["Declaration of war by the United States", "Martin Mejstřík", "United States Senate", "Senate of Kenya", "United States", "Treaty Clause", "Great power", "Mau Mau Uprising", "Declaration of the Rights of Man and of the Citizen", "United States Senate", "United States declaration of war upon Germany (1941)"]. Question: When was the state of emergency declared in the country where the Senate is located?
+A: ["20 October 1952"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__102217_58400"}
+QC: Where is the crying stone found in the country in which Raphael Tuju holds citizenship?
+QS: (select) [retrieve_odqa] Raphael Tuju holds citizenship of which country?
+A: {"titles": ["Don't Stop Believin'", "Raphael Tuju", "Raphael (band)", "Cry, the Beloved Country (1995 film)", "Time Waits for No One: Anthology 1971–1977", "Visa requirements for Canadian citizens", "Raphael (archangel)", "A Legend in My Time", "Somalis"], "answer": ["Kenya"]}
+QS: (select) [retrieve_odqa] The crying stone in Kenya is found along the highway towards what?
+A: {"titles": ["Switzerland", "History of Liberia", "If You Leave Me Tonight I'll Cry", "I Don't Wanna Cry (Larry Gatlin song)", "Cryin' for Me (Wayman's Song)", "Back on the Right Track", "Visa requirements for Thai citizens", "She Can't Say I Didn't Cry", "Kakamega"], "answer": ["Kisumu"]}
+QS: (select) [multihop_titleqa] Titles: ["Don't Stop Believin'", "Raphael Tuju", "Raphael (band)", "Cry, the Beloved Country (1995 film)", "Time Waits for No One: Anthology 1971–1977", "Visa requirements for Canadian citizens", "Raphael (archangel)", "A Legend in My Time", "Somalis", "Switzerland", "History of Liberia", "If You Leave Me Tonight I'll Cry", "I Don't Wanna Cry (Larry Gatlin song)", "Cryin' for Me (Wayman's Song)", "Back on the Right Track", "Visa requirements for Thai citizens", "She Can't Say I Didn't Cry", "Kakamega"]. Question: Where is the crying stone found in the country in which Raphael Tuju holds citizenship?
+A: ["along the highway towards Kisumu"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "2hop__131516_53573"}
+QC: Where does the Snake River start, in the state where Lima Mountain is located?
+QS: (select) [retrieve_odqa] Which state is Lima Mountain is located in?
+A: {"titles": ["Brownlee, Oregon", "Marcelline, Illinois", "Mowamba River", "Big Bend Ranges", "Laurel River", "Honeoye Falls–Lima Central School District", "Driftwood Range", "Lima Mountain"], "answer": ["Minnesota"]}
+QS: (select) [retrieve_odqa] Where does the snake river in Minnesota start?
+A: {"titles": ["Wind River (Yukon)", "Blue Mountains (New South Wales)", "Elkhorn Mountain", "Lima culture", "Snake River (St. Croix River tributary)"], "answer": ["southern Aitkin County"]}
+QS: (select) [multihop_titleqa] Titles: ["Brownlee, Oregon", "Marcelline, Illinois", "Mowamba River", "Big Bend Ranges", "Laurel River", "Honeoye Falls–Lima Central School District", "Driftwood Range", "Lima Mountain", "Wind River (Yukon)", "Blue Mountains (New South Wales)", "Elkhorn Mountain", "Lima culture", "Snake River (St. Croix River tributary)"]. Question: Where does the Snake River start, in the state where Lima Mountain is located?
+A: ["southern Aitkin County"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "3hop1__753524_742157_573834"}
+QC: What genre is the record label of the performer of So Long, See You Tomorrow associated with?
+QS: (select) [retrieve_odqa] Who is the performer of So Long, See You Tomorrow?
+A: {"titles": ["Tomorrow Is Here", "Easterly Winds", "Antoine Marchand", "867-5309/Jenny", "So Long, See You Tomorrow (album)"], "answer": ["Bombay Bicycle Club"]}
+QS: (select) [retrieve_odqa] What is the record label of Bombay Bicycle Club?
+A: {"titles": ["Flaws (album)", "Because (The Dave Clark Five song)", "See You on the Other Side (Mercury Rev album)"], "answer": ["Island Records"]}
+QS: (select) [retrieve_odqa] Which genre is Island Records?
+A: {"titles": ["The Antidote (Ronny Jordan album)", "The Dance (song)"], "answer": ["jazz"]}
+QS: (select) [multihop_titleqa] Titles: ["Tomorrow Is Here", "Easterly Winds", "Antoine Marchand", "867-5309/Jenny", "So Long, See You Tomorrow (album)", "Flaws (album)", "Because (The Dave Clark Five song)", "See You on the Other Side (Mercury Rev album)", "The Antidote (Ronny Jordan album)", "The Dance (song)"]. Question: What genre is the record label of the performer of So Long, See You Tomorrow associated with?
+A: ["jazz"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "3hop1__858730_386977_851569"}
+QC: In which county was the birthplace of the Smoke in tha City performer?
+QS: (select) [retrieve_odqa] Who is the performer of Smoke in the City?
+A: {"titles": ["Nicotine marketing", "Khabarovsky District", "Beyoncé", "Asthma", "Smoke in tha City"], "answer": ["MC Eiht"]}
+QS: (select) [retrieve_odqa] What is the birthplace of MC Eiht?
+A: {"titles": ["Cherokee City, Arkansas", "MC Eiht", "Biysky District"], "answer": ["Compton"]}
+QS: (select) [retrieve_odqa] Compton is located in which county?
+A: {"titles": ["Vilnius County", "Biblioteca Ayacucho", "Compton, California"], "answer": ["Los Angeles County"]}
+QS: (select) [multihop_titleqa] Titles: ["Nicotine marketing", "Khabarovsky District", "Beyoncé", "Asthma", "Smoke in tha City", "Cherokee City, Arkansas", "MC Eiht", "Biysky District", "Vilnius County", "Biblioteca Ayacucho", "Compton, California"]. Question: In which county was the birthplace of the Smoke in tha City performer?
+A: ["Los Angeles County"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "3hop1__443556_763924_573834"}
+QC: What is the genre of the record label of the band that performed on the Crush Tour?
+QS: (select) [retrieve_odqa] Which band performed on the Crush Tour?
+A: {"titles": ["The Crush Tour (album)", "Really Big!", "Groovin' High (Booker Ervin album)", "Easterly Winds", "Night Wave", "Magic Tour Highlights"], "answer": ["Bon Jovi"]}
+QS: (select) [retrieve_odqa] What is the record label of Bon Jovi?
+A: {"titles": ["African Venus", "Bounce (Bon Jovi album)"], "answer": ["Island Records"]}
+QS: (select) [retrieve_odqa] What is the genre of Island Records?
+A: {"titles": ["Peter Holtslag", "Matador (Kenny Dorham album)", "Antoine Marchand", "Juggernaut (Hunters & Collectors album)", "Counterfit", "The Antidote (Ronny Jordan album)"], "answer": ["jazz"]}
+QS: (select) [multihop_titleqa] Titles: ["The Crush Tour (album)", "Really Big!", "Groovin' High (Booker Ervin album)", "Easterly Winds", "Night Wave", "Magic Tour Highlights", "African Venus", "Bounce (Bon Jovi album)", "Peter Holtslag", "Matador (Kenny Dorham album)", "Antoine Marchand", "Juggernaut (Hunters & Collectors album)", "Counterfit", "The Antidote (Ronny Jordan album)"]. Question: What is the genre of the record label of the band that performed on the Crush Tour?
+A: ["jazz"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "3hop1__61746_67065_43617"}
+QC: How long is the US border with the country that borders the state where Finding Dory takes place?
+QS: (select) [retrieve_odqa] In which state does Finding Dory take place?
+A: {"titles": ["Finding Dory", "Latvia", "List of countries that border only one other country", "Removal of Hungary's border fence with Austria"], "answer": ["California"]}
+QS: (select) [retrieve_odqa] Which country shares a border with California?
+A: {"titles": ["Mexico–United States border", "Kingdom of Gera", "Pesticide", "Currie Cup"], "answer": ["Mexico"]}
+QS: (select) [retrieve_odqa] What is the length of the US border with Mexico?
+A: {"titles": ["Piscataqua River border dispute", "Share a Coke", "Mexico–United States border", "Hotel Arbez"], "answer": ["1,989 mi"]}
+QS: (select) [multihop_titleqa] Titles: ["Finding Dory", "Latvia", "List of countries that border only one other country", "Removal of Hungary's border fence with Austria", "Mexico–United States border", "Kingdom of Gera", "Pesticide", "Currie Cup", "Piscataqua River border dispute", "Share a Coke", "Mexico–United States border", "Hotel Arbez"]. Question: How long is the US border with the country that borders the state where Finding Dory takes place?
+A: ["1,989 mi"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "4hop3__703974_789671_24078_24137"}
+QC: What weekly publication in the Connecticut city with the most Zagat rated restaurants is issued by university of America-Lite: How Imperial Academia Dismantled Our Culture's author?
+QS: (select) [retrieve_odqa] Who is the author of America-Lite: How Imperial Academia Dismantled Our Culture?
+A: {"titles": ["WQUT", "America-Lite"], "answer": ["David Gelernter"]}
+QS: (select) [retrieve_odqa] Where was David Gelernter educated at?
+A: {"titles": ["Súper Sábado Sensacional", "David Gelernter", "Agustín Yáñez"], "answer": ["Yale University"]}
+QS: (select) [retrieve_odqa] Which city in Connecticut has the highest number of Zagat-rated restaurants?
+A: {"titles": ["New Haven, Connecticut", "Oklahoma"], "answer": ["New Haven"]}
+QS: (select) [retrieve_odqa] What weekly publication in New Haven is issued by Yale University?
+A: {"titles": ["New Haven, Connecticut", "Imperial College London", "Respekt"], "answer": ["Yale Herald"]}
+QS: (select) [multihop_titleqa] Titles: ["WQUT", "America-Lite", "Súper Sábado Sensacional", "David Gelernter", "Agustín Yáñez", "New Haven, Connecticut", "Oklahoma", "New Haven, Connecticut", "Imperial College London", "Respekt"]. Question: What weekly publication in the Connecticut city with the most Zagat rated restaurants is issued by university of America-Lite: How Imperial Academia Dismantled Our Culture's author?
+A: ["Yale Herald"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "4hop3__463724_100414_35260_54090"}
+QC: How many countries in Pacific National University's continent are recognized by the organization that mediated the truce ending the Iran-Iraq war?
+QS: (select) [retrieve_odqa] Where is Pacific National University located?
+A: {"titles": ["Operation Praying Mantis", "Pacific National University"], "answer": ["Khabarovsk, Russia"]}
+QS: (select) [retrieve_odqa] In which continent is Khabarovsk, Russia?
+A: {"titles": ["Khabarovsk", "Armenia", "Near East", "Australia (continent)"], "answer": ["Asia"]}
+QS: (select) [retrieve_odqa] Which entity mediated the truce which ended the Iran-Iraq War?
+A: {"titles": ["Iran", "Alaska", "East Africa"], "answer": ["UN"]}
+QS: (select) [retrieve_odqa] How many member states does UN recognize in Asia?
+A: {"titles": ["Pacific Ocean", "United Nations Regional Groups", "Ayesha Gaddafi", "Mesopotamia"], "answer": ["53"]}
+QS: (select) [multihop_titleqa] Titles: ["Operation Praying Mantis", "Pacific National University", "Khabarovsk", "Armenia", "Near East", "Australia (continent)", "Iran", "Alaska", "East Africa", "Pacific Ocean", "United Nations Regional Groups", "Ayesha Gaddafi", "Mesopotamia"]. Question: How many countries in Pacific National University's continent are recognized by the organization that mediated the truce ending the Iran-Iraq war?
+A: ["53"]
+QS: [EOQ]

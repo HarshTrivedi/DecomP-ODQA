@@ -1,0 +1,317 @@
+# METADATA: {"qid": "5a8ed9f355429917b4a5bddd"}
+QC: Nobody Loves You was written by John Lennon and released on what album that was issued by Apple Records, and was written, recorded, and released during his 18 month separation from Yoko Ono?
+QS: (select) [retrieve_odqa] What album was issued by Apple Records, and written, recorded, and released during John Lennon's 18 month separation from Yoko Ono?
+A: {"titles": ["John Lennon/Plastic Ono Band", "Milk and Honey (album)", "Walls and Bridges"], "answer": ["Walls and Bridges"]}
+QS: (select) [retrieve_odqa] Nobody Loves You was written by John Lennon on what album?
+A: {"titles": ["John Lennon Museum", "Nobody Loves You (When You're Down and Out)"], "answer": ["Walls and Bridges"]}
+QS: (select) [multihop_titleqa] Titles: ["John Lennon/Plastic Ono Band", "Milk and Honey (album)", "Walls and Bridges", "John Lennon Museum", "Nobody Loves You (When You're Down and Out)"]. Question: Nobody Loves You was written by John Lennon and released on what album that was issued by Apple Records, and was written, recorded, and released during his 18 month separation from Yoko Ono?
+A: ["Walls and Bridges"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5ac52e1b5542994611c8b3f4"}
+QC: What is known as the Kingdom and has National Route 13 stretching towards its border?
+QS: (select) [retrieve_odqa] What is Cambodia officially known as?
+A: {"titles": ["Cambodia", "Indonesian National Route 13"], "answer": ["Kingdom of Cambodia"]}
+QS: (select) [retrieve_odqa] National Route 13 streches towards border to what?
+A: {"titles": ["National Route 13 (Vietnam)", "Missouri Route 413", "Route 13 (Laos)"], "answer": ["Cambodia"]}
+QS: (select) [multihop_titleqa] Titles: ["Cambodia", "Indonesian National Route 13", "National Route 13 (Vietnam)", "Missouri Route 413", "Route 13 (Laos)"]. Question: What is known as the Kingdom and has National Route 13 stretching towards its border?
+A: ["Cambodia"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5ab92dba554299131ca422a2"}
+QC: Jeremy Theobald and Christopher Nolan share what profession?
+QS: (select) [retrieve_odqa] What are the professions of Jeremy Theobald?
+A: {"titles": ["Jeremy Theobald", "Rutebeuf"], "answer": ["actor and producer"]}
+QS: (select) [retrieve_odqa] What are the professions of Christopher Nolan?
+A: {"titles": ["Downhill (2014 film)", "Pravasam", "Paraveterinary workers in Japan", "Christopher Nolan"], "answer": ["director, producer, and screenwriter"]}
+QS: (select) [multihop_titleqa] Titles: ["Jeremy Theobald", "Rutebeuf", "Downhill (2014 film)", "Pravasam", "Paraveterinary workers in Japan", "Christopher Nolan"]. Question: Jeremy Theobald and Christopher Nolan share what profession?
+A: ["producer"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a7bbc50554299042af8f7d0"}
+QC: What film directed by Brian Patrick Butler was inspired by a film directed by F.W. Murnau?
+QS: (select) [retrieve_odqa] Which film was directed by Brian Patrick Butler?
+A: {"titles": ["Nosferatu: Plague of Terror", "Clementine Plessner", "Robert Neppach", "The Phantom Hour"], "answer": ["The Phantom Hour"]}
+QS: (select) [retrieve_odqa] The Phantom Hour was inspired by what films?
+A: {"titles": ["Nosferatu", "City Girl (1930 film)"], "answer": ["Nosferatu and The Cabinet of Dr. Caligari"]}
+QS: (select) [multihop_titleqa] Titles: ["Nosferatu: Plague of Terror", "Clementine Plessner", "Robert Neppach", "The Phantom Hour", "Nosferatu", "City Girl (1930 film)"]. Question: What film directed by Brian Patrick Butler was inspired by a film directed by F.W. Murnau?
+A: ["The Phantom Hour"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a835abe5542996488c2e426"}
+QC: Vertical Limit stars which actor who also played astronaut Alan Shepard in "The Right Stuff"?
+QS: (select) [retrieve_odqa] Which actor played astronaut Alan Shepard in "The Right Stuff"?
+A: {"titles": ["Vertical Limit", "Sam Shepard", "The Right Stuff (book)", "USNS Alan Shepard (T-AKE-3)"], "answer": ["Scott Glenn"]}
+QS: (select) [retrieve_odqa] Who stars in the movie Vertical Limit?
+A: {"titles": ["Scott Glenn", "The Right Stuff (film)"], "answer": ["Scott Glenn"]}
+QS: (select) [multihop_titleqa] Titles: ["Vertical Limit", "Sam Shepard", "The Right Stuff (book)", "USNS Alan Shepard (T-AKE-3)", "Scott Glenn", "The Right Stuff (film)"]. Question: Vertical Limit stars which actor who also played astronaut Alan Shepard in "The Right Stuff"?
+A: ["Scott Glenn"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5ab2e6e5554299166977412c"}
+QC: Which car, produced by Ferrari from 1962 to 1964 for homologation into the FIA's Group 3 Grand Touring Car category inspired the Vandenbrink GTO?
+QS: (select) [retrieve_odqa] What car was produced by Ferrari from 1962 to 1964 for homologation into the FIA's Group 3 Grand Touring Car category?
+A: {"titles": ["Ferrari 250 GTO", "Group 5 (racing)", "Group GT3"], "answer": ["The Ferrari 250 GTO"]}
+QS: (select) [retrieve_odqa] What inspired the Vandenbrink GTO's styling?
+A: {"titles": ["Vandenbrink GTO", "1968 World Sportscar Championship", "1969 World Sportscar Championship", "1986 Australian Touring Car season"], "answer": ["The Ferrari 250 GTO"]}
+QS: (select) [multihop_titleqa] Titles: ["Ferrari 250 GTO", "Group 5 (racing)", "Group GT3", "Vandenbrink GTO", "1968 World Sportscar Championship", "1969 World Sportscar Championship", "1986 Australian Touring Car season"]. Question: Which car, produced by Ferrari from 1962 to 1964 for homologation into the FIA's Group 3 Grand Touring Car category inspired the Vandenbrink GTO?
+A: ["Ferrari 250 GTO"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a7fc53555429969796c1b55"}
+QC: The actor that stars as Joe Proctor on the series "Power" also played a character on "Entourage" that has what last name?
+QS: (select) [retrieve_odqa] Who is the actor that stars as Joe Proctor on the series "Power"?
+A: {"titles": ["Jerry Ferrara", "Death Note 2: The Last Name"], "answer": ["Jerry Ferrara"]}
+QS: (select) [retrieve_odqa] Jerry Ferrara also played a character on Entourage named what?
+A: {"titles": ["Qiao (surname)", "Turtle (Entourage)", "Matt Robinson (actor)"], "answer": ["Turtle Assante"]}
+QS: (select) [multihop_titleqa] Titles: ["Jerry Ferrara", "Death Note 2: The Last Name", "Qiao (surname)", "Turtle (Entourage)", "Matt Robinson (actor)"]. Question: The actor that stars as Joe Proctor on the series "Power" also played a character on "Entourage" that has what last name?
+A: ["Assante"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a758ea55542992db9473680"}
+QC: who is older Jeremy Horn or Renato Sobral ?
+QS: (select) [retrieve_odqa] When was Jeremy Horn born?
+A: {"titles": ["Zaza Tkeshelashvili", "Jeremy Horn", "Jeremy Horn (singer)", "Ricardo Arona"], "answer": ["August 25, 1975"]}
+QS: (select) [retrieve_odqa] When was Renato Sobral born?
+A: {"titles": ["Brian Warren", "Renato Sobral"], "answer": ["September 7, 1975"]}
+QS: (select) [multihop_titleqa] Titles: ["Zaza Tkeshelashvili", "Jeremy Horn", "Jeremy Horn (singer)", "Ricardo Arona", "Brian Warren", "Renato Sobral"]. Question: who is older Jeremy Horn or Renato Sobral ?
+A: ["Jeremy Horn"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a754ab35542993748c89819"}
+QC: In what country was Lost Gravity manufactured?
+QS: (select) [retrieve_odqa] Who manufactured The Lost Gravity (roller coaster)?
+A: {"titles": ["Sweet Thing (Keith Urban song)", "Swell (ocean)", "Honda CMX450", "Lost Gravity (roller coaster)"], "answer": ["Mack Rides"]}
+QS: (select) [retrieve_odqa] Mack Rides is from which country?
+A: {"titles": ["List of tallest dams in China", "Mack Rides", "Lost Gravity", "Samsung SGH-T669"], "answer": ["Germany"]}
+QS: (select) [multihop_titleqa] Titles: ["Sweet Thing (Keith Urban song)", "Swell (ocean)", "Honda CMX450", "Lost Gravity (roller coaster)", "List of tallest dams in China", "Mack Rides", "Lost Gravity", "Samsung SGH-T669"]. Question: In what country was Lost Gravity manufactured?
+A: ["Germany"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a78fe7b55429974737f793b"}
+QC: Who was married to a founding member of Nirvana?
+QS: (select) [retrieve_odqa] Who is the founding member of Nirvana?
+A: {"titles": ["Charlee Johnson", "Leeward Islands Cricket Association", "Kurt Cobain"], "answer": ["Kurt Cobain"]}
+QS: (select) [retrieve_odqa] Who was Kurt Cobain married to?
+A: {"titles": ["Samuel Hoar", "Professional Widow", "Wilmington Sea Dawgs"], "answer": ["Courtney Love"]}
+QS: (select) [multihop_titleqa] Titles: ["Charlee Johnson", "Leeward Islands Cricket Association", "Kurt Cobain", "Samuel Hoar", "Professional Widow", "Wilmington Sea Dawgs"]. Question: Who was married to a founding member of Nirvana?
+A: ["Courtney Love"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5ae0185b55429942ec259c1b"}
+QC: What was the 2014 population of the city where Lake Wales Medical Center is located?
+QS: (select) [retrieve_odqa] Lake Wales Medical Center is located in what city?
+A: {"titles": ["Baylor College of Medicine", "Lake Wales Medical Center", "Tufts University School of Medicine", "Hanford Community Medical Center"], "answer": ["Polk County, Florida"]}
+QS: (select) [retrieve_odqa] What was the population of Polk County in 2014?
+A: {"titles": ["Banner University Medical Center Tucson", "Lake Wales, Florida"], "answer": ["15,140"]}
+QS: (select) [multihop_titleqa] Titles: ["Baylor College of Medicine", "Lake Wales Medical Center", "Tufts University School of Medicine", "Hanford Community Medical Center", "Banner University Medical Center Tucson", "Lake Wales, Florida"]. Question: What was the 2014 population of the city where Lake Wales Medical Center is located?
+A: ["15,140"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5abfb3435542990832d3a1c1"}
+QC: Which American neo-noir science fiction has Pierce Gagnon starred?
+QS: (select) [retrieve_odqa] Pierce Gagnon has starred in what films?
+A: {"titles": ["Blade Runner 2049", "Pierce Gagnon", "List of Blade Runner characters", "2036: Nexus Dawn"], "answer": ["One Tree Hill, Looper, Wish I Was Here and Extant."]}
+QS: (select) [retrieve_odqa] One Tree Hill, Looper, Wish I Was Here and Extant, which is an American neo-noir science fiction?
+A: {"titles": ["2048: Nowhere to Run", "Looper (film)"], "answer": ["Looper"]}
+QS: (select) [multihop_titleqa] Titles: ["Blade Runner 2049", "Pierce Gagnon", "List of Blade Runner characters", "2036: Nexus Dawn", "2048: Nowhere to Run", "Looper (film)"]. Question: Which American neo-noir science fiction has Pierce Gagnon starred?
+A: ["Looper"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a86efe655429960ec39b6e3"}
+QC: What Scottish nobleman was the subject of a 1934 British short documentary and was the first man to fly over Mount Everest?
+QS: (select) [retrieve_odqa] Who was the Scottish nobleman that was the subject of a 1934 British short documentary?
+A: {"titles": ["Kharta", "Douglas Douglas-Hamilton, 14th Duke of Hamilton"], "answer": ["Douglas Douglas-Hamilton"]}
+QS: (select) [retrieve_odqa] Who was the first man to fly over Mount Everest?
+A: {"titles": ["Wings Over Everest", "Dicky Dolma"], "answer": ["Douglas Douglas-Hamilton"]}
+QS: (select) [multihop_titleqa] Titles: ["Kharta", "Douglas Douglas-Hamilton, 14th Duke of Hamilton", "Wings Over Everest", "Dicky Dolma"]. Question: What Scottish nobleman was the subject of a 1934 British short documentary and was the first man to fly over Mount Everest?
+A: ["Douglas Douglas-Hamilton"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5add363c5542990dbb2f7dc8"}
+QC: How many episodes were in the South Korean television series in which Ryu Hye-young played Bo-ra?
+QS: (select) [retrieve_odqa] What is the South Korean television series in which Ryu Hye-young played Bo-ra?
+A: {"titles": ["Ryu Hye-young", "The Mayor (2017 film)"], "answer": ["Reply 1988"]}
+QS: (select) [retrieve_odqa] How many episodes does Reply 1988 have?
+A: {"titles": ["90 Days, Time to Love", "Phoenix (2004 TV series)", "My Heart Twinkle Twinkle", "Reply 1988"], "answer": ["20"]}
+QS: (select) [multihop_titleqa] Titles: ["Ryu Hye-young", "The Mayor (2017 film)", "90 Days, Time to Love", "Phoenix (2004 TV series)", "My Heart Twinkle Twinkle", "Reply 1988"]. Question: How many episodes were in the South Korean television series in which Ryu Hye-young played Bo-ra?
+A: ["20"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a89d58755429946c8d6e9d9"}
+QC: Does The Border Surrender or Unsane have more members?
+QS: (select) [retrieve_odqa] How many members does The Border Surrender band have?
+A: {"titles": ["The Border Surrender", "Ruby Ridge"], "answer": ["4"]}
+QS: (select) [retrieve_odqa] How many members does the Unsane band have?
+A: {"titles": ["Unsane", "Shindo Renmei", "Scotch Village, Nova Scotia", "Open border"], "answer": ["3"]}
+QS: (select) [multihop_titleqa] Titles: ["The Border Surrender", "Ruby Ridge", "Unsane", "Shindo Renmei", "Scotch Village, Nova Scotia", "Open border"]. Question: Does The Border Surrender or Unsane have more members?
+A: ["The Border Surrender"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a77acab5542992a6e59df76"}
+QC: Who was born first, James D Grant, who uses the pen name of Lee Child, or Bernhard Schlink?
+QS: (select) [retrieve_odqa] When was James D Grant, who uses the pen name of Lee Child, born?
+A: {"titles": ["Anna t'Haron", "Christiane Gohl", "Second Son (Child novel)", "Lee Child"], "answer": ["1954"]}
+QS: (select) [retrieve_odqa] When was Bernhard Schlink born?
+A: {"titles": ["Colin Falconer (writer)", "Bernhard Schlink", "Cathy Small", "Shaun Whiteside"], "answer": ["1944"]}
+QS: (select) [multihop_titleqa] Titles: ["Anna t'Haron", "Christiane Gohl", "Second Son (Child novel)", "Lee Child", "Colin Falconer (writer)", "Bernhard Schlink", "Cathy Small", "Shaun Whiteside"]. Question: Who was born first, James D Grant, who uses the pen name of Lee Child, or Bernhard Schlink?
+A: ["Bernhard Schlink"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a88f9d55542995153361218"}
+QC: Which band formed first, Sponge Cola or Hurricane No. 1?
+QS: (select) [retrieve_odqa] When was Sponge Cola band formed?
+A: {"titles": ["Ultrablessed", "Tambay (EP)", "Sponge Cola"], "answer": ["1998"]}
+QS: (select) [retrieve_odqa] When was Hurricane No. 1 formed?
+A: {"titles": ["Hurricane No. 1", "Araw Oras Tagpuan"], "answer": ["1996"]}
+QS: (select) [multihop_titleqa] Titles: ["Ultrablessed", "Tambay (EP)", "Sponge Cola", "Hurricane No. 1", "Araw Oras Tagpuan"]. Question: Which band formed first, Sponge Cola or Hurricane No. 1?
+A: ["Hurricane No. 1"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a78ee7a55429970f5fffddd"}
+QC: What are the nationalities of Leonid Khachiyan and Sofia Kovalevskaya?
+QS: (select) [retrieve_odqa] What is the nationality of Leonid Khachiyan?
+A: {"titles": ["Bobone (crater)", "Leonid Khachiyan", "Sofia Kovalevskaya Award", "Kovalevskaya (crater)"], "answer": ["Russian"]}
+QS: (select) [retrieve_odqa] What is the nationality of Sofia Kovalevskaya?
+A: {"titles": ["Nepal Federation of Indigenous Nationalities", "Lycée Français Victor Hugo (Bulgaria)", "Sofia Kovalevskaya"], "answer": ["Russian"]}
+QS: (select) [multihop_titleqa] Titles: ["Bobone (crater)", "Leonid Khachiyan", "Sofia Kovalevskaya Award", "Kovalevskaya (crater)", "Nepal Federation of Indigenous Nationalities", "Lycée Français Victor Hugo (Bulgaria)", "Sofia Kovalevskaya"]. Question: What are the nationalities of Leonid Khachiyan and Sofia Kovalevskaya?
+A: ["Russian"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5ae5a5475542992663a4f202"}
+QC: Which former Canadian Professional Ice Hockey Player endorses MLX Skates?
+QS: (select) [retrieve_odqa] Who endorses MLX Skates?
+A: {"titles": ["Brian Smith (ice hockey, born 1940)", "Robert Ouellet", "MLX Skates"], "answer": ["Mario Lemieux"]}
+QS: (select) [retrieve_odqa] Who is a former Canadian Professional Ice Hockey Player?
+A: {"titles": ["Mario Lemieux", "Bruce Richardson", "Eric Neilson", "Eddie Oatman"], "answer": ["Mario Lemieux"]}
+QS: (select) [multihop_titleqa] Titles: ["Brian Smith (ice hockey, born 1940)", "Robert Ouellet", "MLX Skates", "Mario Lemieux", "Bruce Richardson", "Eric Neilson", "Eddie Oatman"]. Question: Which former Canadian Professional Ice Hockey Player endorses MLX Skates?
+A: ["Mario Lemieux"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5abb14bd5542992ccd8e7f07"}
+QC: In which country did this Australian who was detained in Guantanamo Bay detention camp and published "Guantanamo: My Journey" receive para-military training?
+QS: (select) [retrieve_odqa] Who is the Australian who was detained in Guantanamo Bay detention camp and published "Guantanamo: My Journey"?
+A: {"titles": ["Guantanamo: My Journey", "Bismullah v. Gates", "Guantanamo Bay detention camp"], "answer": ["David Hicks"]}
+QS: (select) [retrieve_odqa] In which country did David Hicks receive his para-military training?
+A: {"titles": ["John Adams Project", "Camp Echo (Guantanamo Bay)", "Guantanamo Bay Museum of Art and History", "David Hicks"], "answer": ["Afghanistan"]}
+QS: (select) [multihop_titleqa] Titles: ["Guantanamo: My Journey", "Bismullah v. Gates", "Guantanamo Bay detention camp", "John Adams Project", "Camp Echo (Guantanamo Bay)", "Guantanamo Bay Museum of Art and History", "David Hicks"]. Question: In which country did this Australian who was detained in Guantanamo Bay detention camp and published "Guantanamo: My Journey" receive para-military training?
+A: ["Afghanistan"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a8f44ab5542992414482a25"}
+QC: What year did Edburga of Minster-in-Thanet's father die?
+QS: (select) [retrieve_odqa] Who is the father of Edburga of Minster-in-Thanet?
+A: {"titles": ["Edburga of Minster-in-Thanet", "Ntoro"], "answer": ["King Centwine"]}
+QS: (select) [retrieve_odqa] When did Centwine die?
+A: {"titles": ["Die Hard with a Vengeance", "Carl Strehlow", "Centwine of Wessex", "Takers and Leavers"], "answer": ["after 685"]}
+QS: (select) [multihop_titleqa] Titles: ["Edburga of Minster-in-Thanet", "Ntoro", "Die Hard with a Vengeance", "Carl Strehlow", "Centwine of Wessex", "Takers and Leavers"]. Question: What year did Edburga of Minster-in-Thanet's father die?
+A: ["after 685"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5ade51dd554299728e26c6c6"}
+QC: In which state of Australia will you find the themed lands Ocean parade and DreamWorks Experience both within the Dreamworld theme park complex on the Gold Coast?
+QS: (select) [retrieve_odqa] The themed land of Ocean parade is in which state of Australia?
+A: {"titles": ["Dreamworld Tower", "Ocean Parade (Dreamworld)", "Town of Gold Rush"], "answer": ["Queensland"]}
+QS: (select) [retrieve_odqa] The themed land of The DreamWorks Experience is which state of Australia?
+A: {"titles": ["DreamWorks Experience", "The Giant Drop", "Shockwave (Dreamworld)"], "answer": ["Queensland"]}
+QS: (select) [multihop_titleqa] Titles: ["Dreamworld Tower", "Ocean Parade (Dreamworld)", "Town of Gold Rush", "DreamWorks Experience", "The Giant Drop", "Shockwave (Dreamworld)"]. Question: In which state of Australia will you find the themed lands Ocean parade and DreamWorks Experience both within the Dreamworld theme park complex on the Gold Coast?
+A: ["Queensland"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5adfad0c554299603e41835a"}
+QC: Were Lonny and Allure both founded in the 1990s?
+QS: (select) [retrieve_odqa] When was Lonny (magazine) founded?
+A: {"titles": ["Lonny (magazine)", "Philo Records (folk)"], "answer": ["2009"]}
+QS: (select) [retrieve_odqa] When was Allure (magazine) founded?
+A: {"titles": ["Allure (magazine)", "Beautycounter"], "answer": ["1991"]}
+QS: (select) [multihop_titleqa] Titles: ["Lonny (magazine)", "Philo Records (folk)", "Allure (magazine)", "Beautycounter"]. Question: Were Lonny and Allure both founded in the 1990s?
+A: ["no"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a90620755429933b8a20508"}
+QC: James Paris Lee is best known for investing the Lee-Metford rifle and another rifle often referred to by what acronymn?
+QS: (select) [retrieve_odqa] James Paris Lee is best known for investing the Lee-Metford rifle and what other series of rifles.
+A: {"titles": ["James Paris Lee", "FN Model 1949"], "answer": ["Lee–Enfield"]}
+QS: (select) [retrieve_odqa] Lee–Enfield is often referred to by what acronym?
+A: {"titles": ["Lee Speed", "Lee–Enfield", "John Lee (inventor)", "Ferdinand Mannlicher"], "answer": ["SMLE"]}
+QS: (select) [multihop_titleqa] Titles: ["James Paris Lee", "FN Model 1949", "Lee Speed", "Lee–Enfield", "John Lee (inventor)", "Ferdinand Mannlicher"]. Question: James Paris Lee is best known for investing the Lee-Metford rifle and another rifle often referred to by what acronymn?
+A: ["SMLE"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5ae69a6555429908198fa651"}
+QC: Mister Magoo's Christmas Carol was produced by the same studio that produced a film that featured the only animated-film role by who?
+QS: (select) [retrieve_odqa] Mister Magoo's Christmas Carol was produced by what studio?
+A: {"titles": ["UPA (animation studio)", "A Klingon Christmas Carol", "Mister Magoo's Christmas Carol", "Mister Magoo"], "answer": ["United Productions of America"]}
+QS: (select) [retrieve_odqa] United Productions of America studio produced a film that featured the only animated-film role by who?
+A: {"titles": ["The Muppet Christmas Carol", "A Christmas Carol (1999 film)", "A Christmas Carol", "Gay Purr-ee"], "answer": ["Judy Garland"]}
+QS: (select) [multihop_titleqa] Titles: ["UPA (animation studio)", "A Klingon Christmas Carol", "Mister Magoo's Christmas Carol", "Mister Magoo", "The Muppet Christmas Carol", "A Christmas Carol (1999 film)", "A Christmas Carol", "Gay Purr-ee"]. Question: Mister Magoo's Christmas Carol was produced by the same studio that produced a film that featured the only animated-film role by who?
+A: ["Judy Garland"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5ac2ada5554299657fa2900d"}
+QC: How many awards did the "A Girl Like Me" singer win at the American Music Awards of 2012?
+QS: (select) [retrieve_odqa] Who is the singer of "A Girl Like Me"?
+A: {"titles": ["American Music Award", "Rihanna"], "answer": ["Rihanna"]}
+QS: (select) [retrieve_odqa] How many awards did Rihana won in the American Music Awards of 2012?
+A: {"titles": ["American Music Awards of 2012", "APRA Music Awards of 2012", "List of awards and nominations received by TLC", "Native American Music Awards"], "answer": ["one"]}
+QS: (select) [multihop_titleqa] Titles: ["American Music Award", "Rihanna", "American Music Awards of 2012", "APRA Music Awards of 2012", "List of awards and nominations received by TLC", "Native American Music Awards"]. Question: How many awards did the "A Girl Like Me" singer win at the American Music Awards of 2012?
+A: ["one"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a89c14f5542993b751ca98a"}
+QC: Which of the following had a debut album entitled "We Have an Emergency": Hot Hot Heat or The Operation M.D.?
+QS: (select) [retrieve_odqa] What was the debut album of the band "Hot Hot Heat"?
+A: {"titles": ["Liar (Fake Shark – Real Zombie! album)", "Fur Trade (band)", "Ache Records", "Hot Hot Heat"], "answer": ["Make Up the Breakdown"]}
+QS: (select) [retrieve_odqa] What was the debut album of the band "The Operation M.D."?
+A: {"titles": ["The Operation M.D.", "Song for Africa – Rwanda: Rises Up!"], "answer": ["We Have an Emergency"]}
+QS: (select) [multihop_titleqa] Titles: ["Liar (Fake Shark – Real Zombie! album)", "Fur Trade (band)", "Ache Records", "Hot Hot Heat", "The Operation M.D.", "Song for Africa – Rwanda: Rises Up!"]. Question: Which of the following had a debut album entitled "We Have an Emergency": Hot Hot Heat or The Operation M.D.?
+A: ["The Operation M.D."]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a88aeaa5542993e715ac064"}
+QC: Which American actor and director appeared on the series "December Bride" and in the film "Gentle Annie?"
+QS: (select) [retrieve_odqa] "December Bride" has an American actor and director named what?
+A: {"titles": ["Kentucky Jones", "Harry Morgan", "Spring Byington"], "answer": ["Harry Morgan"]}
+QS: (select) [retrieve_odqa] Who acted in the film "Gentle Annie"?
+A: {"titles": ["Hallie Meyers-Shyer", "George Newbern", "December Bride (Roseanne)", "Gentle Annie (film)"], "answer": ["Harry Morgan"]}
+QS: (select) [multihop_titleqa] Titles: ["Kentucky Jones", "Harry Morgan", "Spring Byington", "Hallie Meyers-Shyer", "George Newbern", "December Bride (Roseanne)", "Gentle Annie (film)"]. Question: Which American actor and director appeared on the series "December Bride" and in the film "Gentle Annie?"
+A: ["Harry Morgan"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5a790e7855429970f5fffe3d"}
+QC: Who was born first? Jan de Bont or Raoul Walsh?
+QS: (select) [retrieve_odqa] When was Jan de Bont born?
+A: {"titles": ["Turkish Delight (1973 film)", "Dark Command", "Jan de Bont"], "answer": ["22 October 1943"]}
+QS: (select) [retrieve_odqa] When was Raoul Walsh born?
+A: {"titles": ["Raoul Walsh", "Talula", "The Haunting (1999 film)"], "answer": ["March 11, 1887"]}
+QS: (select) [multihop_titleqa] Titles: ["Turkish Delight (1973 film)", "Dark Command", "Jan de Bont", "Raoul Walsh", "Talula", "The Haunting (1999 film)"]. Question: Who was born first? Jan de Bont or Raoul Walsh?
+A: ["Raoul Walsh"]
+QS: [EOQ]

@@ -1,0 +1,448 @@
+# METADATA: {"qid": "35bf3490096d11ebbdafac1f6bf848b6"}
+QC: Kurram Garhi is located in which country?
+QS: (select) [retrieve] Kurram Garhi is located in which country?
+A: ["Kurram Garhi Hydropower Plant", "Mardan District", "Kurram Garhi"]
+QS: (select) [singlehop_titleqa] Titles: ["Kurram Garhi Hydropower Plant", "Mardan District", "Kurram Garhi"]. Question: Kurram Garhi is located in which country?
+A: {"titles": ["Kurram Garhi Hydropower Plant", "Mardan District", "Kurram Garhi"], "answer": ["Pakistan"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "35bf3490096d11ebbdafac1f6bf848b6"}
+QC: Trojkrsti is located in which country?
+QS: (select) [retrieve] Trojkrsti is located in which country?
+A: ["Language Management", "Trojkrsti"]
+QS: (select) [singlehop_titleqa] Titles: ["Language Management", "Trojkrsti"]. Question: Trojkrsti is located in which country?
+A: {"titles": ["Language Management", "Trojkrsti"], "answer": ["Republic of Macedonia"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "e5150a5a0bda11eba7f7acde48001122"}
+QC: Who is the director of the film Laughter In Hell?
+QS: (select) [retrieve] Who is the director of the film Laughter In Hell?
+A: ["Laughter in Hell", "Albert Thompson (footballer, born 1912)"]
+QS: (select) [singlehop_titleqa] Titles: ["Laughter in Hell", "Albert Thompson (footballer, born 1912)"]. Question: Who is the director of the film Laughter In Hell?
+A: {"titles": ["Laughter in Hell", "Albert Thompson (footballer, born 1912)"], "answer": ["Edward L. Cahn"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "e5150a5a0bda11eba7f7acde48001122"}
+QC: When did Edward L. Cahn die?
+QS: (select) [retrieve] When did Edward L. Cahn die?
+A: ["Edward L. Cahn", "Ian Barry (director)", "Thomas Scott (diver)"]
+QS: (select) [singlehop_titleqa] Titles: ["Edward L. Cahn", "Ian Barry (director)", "Thomas Scott (diver)"]. Question: When did Edward L. Cahn die?
+A: {"titles": ["Edward L. Cahn", "Ian Barry (director)", "Thomas Scott (diver)"], "answer": ["August 25, 1963"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f44939100bda11eba7f7acde48001122"}
+QC: Who is the mother of Grand Duke Alexei Alexandrovich of Russia?
+QS: (select) [retrieve] Who is the mother of Grand Duke Alexei Alexandrovich of Russia?
+A: ["Grand Duke Alexei Alexandrovich of Russia", "Grand Duke Alexei Mikhailovich of Russia"]
+QS: (select) [singlehop_titleqa] Titles: ["Grand Duke Alexei Alexandrovich of Russia", "Grand Duke Alexei Mikhailovich of Russia"]. Question: Who is the mother of Grand Duke Alexei Alexandrovich of Russia?
+A: {"titles": ["Grand Duke Alexei Alexandrovich of Russia", "Grand Duke Alexei Mikhailovich of Russia"], "answer": ["Maria Alexandrovna"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f44939100bda11eba7f7acde48001122"}
+QC: What is the cause of death of Maria Alexandrovna?
+QS: (select) [retrieve] What is the cause of death of Maria Alexandrovna?
+A: ["Prince Dmitri Alexandrovich of Russia", "Grand Duke Sergei Alexandrovich of Russia", "Abdul-Vahed Niyazov", "Maria Alexandrovna (Marie of Hesse)"]
+QS: (select) [singlehop_titleqa] Titles: ["Prince Dmitri Alexandrovich of Russia", "Grand Duke Sergei Alexandrovich of Russia", "Abdul-Vahed Niyazov", "Maria Alexandrovna (Marie of Hesse)"]. Question: What is the cause of death of Maria Alexandrovna?
+A: {"titles": ["Prince Dmitri Alexandrovich of Russia", "Grand Duke Sergei Alexandrovich of Russia", "Abdul-Vahed Niyazov", "Maria Alexandrovna (Marie of Hesse)"], "answer": ["tuberculosis"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "af8c6722088b11ebbd6fac1f6bf848b6"}
+QC: Who is the director of the film Sun of the Sleepless?
+QS: (select) [retrieve] Who is the director of the film Sun of the Sleepless?
+A: ["The Sun of the Sleepless", "Perihelion (disambiguation)"]
+QS: (select) [singlehop_titleqa] Titles: ["The Sun of the Sleepless", "Perihelion (disambiguation)"]. Question: Who is the director of the film Sun of the Sleepless?
+A: {"titles": ["The Sun of the Sleepless", "Perihelion (disambiguation)"], "answer": ["Temur Babluani"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "af8c6722088b11ebbd6fac1f6bf848b6"}
+QC: Who is the director of the film Nevada (1927 film)
+QS: (select) [retrieve] Who is the director of the film Nevada (1927 film)
+A: ["Nevada (1927 film)", "The Sun of St. Moritz (1923 film)"]
+QS: (select) [singlehop_titleqa] Titles: ["Nevada (1927 film)", "The Sun of St. Moritz (1923 film)"]. Question: Who is the director of the film Nevada (1927 film)
+A: {"titles": ["Nevada (1927 film)", "The Sun of St. Moritz (1923 film)"], "answer": ["John Waters"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "af8c6722088b11ebbd6fac1f6bf848b6"}
+QC: John Waters is from which country?
+QS: (select) [retrieve] John Waters is from which country?
+A: ["John Waters (director born 1893)", "Sun of May"]
+QS: (select) [singlehop_titleqa] Titles: ["John Waters (director born 1893)", "Sun of May"]. Question: John Waters is from which country?
+A: {"titles": ["John Waters (director born 1893)", "Sun of May"], "answer": ["America"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "af8c6722088b11ebbd6fac1f6bf848b6"}
+QC: Temur Babluani is from which country?
+QS: (select) [retrieve] Temur Babluani is from which country?
+A: ["Temur Babluani", "The Sun of St. Moritz"]
+QS: (select) [singlehop_titleqa] Titles: ["Temur Babluani", "The Sun of St. Moritz"]. Question: Temur Babluani is from which country?
+A: {"titles": ["Temur Babluani", "The Sun of St. Moritz"], "answer": ["Georgia"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "8727d1280bdc11eba7f7acde48001122"}
+QC: Who is the director of the film P.S. Jerusalem?
+QS: (select) [retrieve] Who is the director of the film P.S. Jerusalem?
+A: ["Ian Barry (director)", "P.S. Jerusalem"]
+QS: (select) [singlehop_titleqa] Titles: ["Ian Barry (director)", "P.S. Jerusalem"]. Question: Who is the director of the film P.S. Jerusalem?
+A: {"titles": ["Ian Barry (director)", "P.S. Jerusalem"], "answer": ["Danae Elon"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "8727d1280bdc11eba7f7acde48001122"}
+QC: When was Danae Elon born?
+QS: (select) [retrieve] When was Danae Elon born?
+A: ["Les Richards", "Danae Elon"]
+QS: (select) [singlehop_titleqa] Titles: ["Les Richards", "Danae Elon"]. Question: When was Danae Elon born?
+A: {"titles": ["Les Richards", "Danae Elon"], "answer": ["December 23, 1970"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5811079c0bdc11eba7f7acde48001122"}
+QC: Who is the director of the film Hypocrite?
+QS: (select) [retrieve] Who is the director of the film Hypocrite?
+A: ["Hypocrite (film)", "Albert Thompson (footballer, born 1912)", "Theodred II (Bishop of Elmham)", "Bill Smith (footballer, born 1897)"]
+QS: (select) [singlehop_titleqa] Titles: ["Hypocrite (film)", "Albert Thompson (footballer, born 1912)", "Theodred II (Bishop of Elmham)", "Bill Smith (footballer, born 1897)"]. Question: Who is the director of the film Hypocrite?
+A: {"titles": ["Hypocrite (film)", "Albert Thompson (footballer, born 1912)", "Theodred II (Bishop of Elmham)", "Bill Smith (footballer, born 1897)"], "answer": ["Miguel Morayta"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5811079c0bdc11eba7f7acde48001122"}
+QC: When did Miguel Morayta die?
+QS: (select) [retrieve] When did Miguel Morayta die?
+A: ["Miguel Morayta", "Peter Levin"]
+QS: (select) [singlehop_titleqa] Titles: ["Miguel Morayta", "Peter Levin"]. Question: When did Miguel Morayta die?
+A: {"titles": ["Miguel Morayta", "Peter Levin"], "answer": ["19 June 2013"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "79a863dc0bdc11eba7f7acde48001122"}
+QC: Who is the director of the film Maddalena?
+QS: (select) [retrieve] Who is the director of the film Maddalena?
+A: ["Ian Barry (director)", "Maddalena (1954 film)", "Brian Kennedy (gallery director)"]
+QS: (select) [singlehop_titleqa] Titles: ["Ian Barry (director)", "Maddalena (1954 film)", "Brian Kennedy (gallery director)"]. Question: Who is the director of the film Maddalena?
+A: {"titles": ["Ian Barry (director)", "Maddalena (1954 film)", "Brian Kennedy (gallery director)"], "answer": ["Augusto Genina"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "79a863dc0bdc11eba7f7acde48001122"}
+QC: Where did Augusto Genina die?
+QS: (select) [retrieve] Where did Augusto Genina die?
+A: ["Dana Blankstein", "Augusto Genina", "Peter Levin", "Olav Aaraas"]
+QS: (select) [singlehop_titleqa] Titles: ["Dana Blankstein", "Augusto Genina", "Peter Levin", "Olav Aaraas"]. Question: Where did Augusto Genina die?
+A: {"titles": ["Dana Blankstein", "Augusto Genina", "Peter Levin", "Olav Aaraas"], "answer": ["Rome"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f86b4a28091711ebbdaeac1f6bf848b6"}
+QC: When was What's Inside released?
+QS: (select) [retrieve] When was What's Inside released?
+A: ["Oh Boy! (album)", "What's Inside"]
+QS: (select) [singlehop_titleqa] Titles: ["Oh Boy! (album)", "What's Inside"]. Question: When was What's Inside released?
+A: {"titles": ["Oh Boy! (album)", "What's Inside"], "answer": ["1995"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f86b4a28091711ebbdaeac1f6bf848b6"}
+QC: When was Cassandra's Dream (album) released?
+QS: (select) [retrieve] When was Cassandra's Dream (album) released?
+A: ["The Caliph's Tea Party", "Drama of the Ages", "Early Side of Later", "Cassandra's Dream (album)"]
+QS: (select) [singlehop_titleqa] Titles: ["The Caliph's Tea Party", "Drama of the Ages", "Early Side of Later", "Cassandra's Dream (album)"]. Question: When was Cassandra's Dream (album) released?
+A: {"titles": ["The Caliph's Tea Party", "Drama of the Ages", "Early Side of Later", "Cassandra's Dream (album)"], "answer": ["2008"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "228546780bdd11eba7f7acde48001122"}
+QC: Who is the director of the film Best Friends?
+QS: (select) [retrieve] Who is the director of the film Best Friends?
+A: ["Ian Barry (director)", "Best Friends (1982 film)", "Terence Robinson", "Theodred II (Bishop of Elmham)"]
+QS: (select) [singlehop_titleqa] Titles: ["Ian Barry (director)", "Best Friends (1982 film)", "Terence Robinson", "Theodred II (Bishop of Elmham)"]. Question: Who is the director of the film Best Friends?
+A: {"titles": ["Ian Barry (director)", "Best Friends (1982 film)", "Terence Robinson", "Theodred II (Bishop of Elmham)"], "answer": ["Norman Jewison"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "228546780bdd11eba7f7acde48001122"}
+QC: When was Norman Jewison born?
+QS: (select) [retrieve] When was Norman Jewison born?
+A: ["Les Richards", "Brian Saunders (weightlifter)", "Norman Jewison"]
+QS: (select) [singlehop_titleqa] Titles: ["Les Richards", "Brian Saunders (weightlifter)", "Norman Jewison"]. Question: When was Norman Jewison born?
+A: {"titles": ["Les Richards", "Brian Saunders (weightlifter)", "Norman Jewison"], "answer": ["July 21, 1926"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "c6805b2908a911ebbd80ac1f6bf848b6"}
+QC: When was Martin Hodge born?
+QS: (select) [retrieve] When was Martin Hodge born?
+A: ["Greg A. Hill (artist)", "Martin Hodge", "John Allen (Oxford University cricketer)"]
+QS: (select) [singlehop_titleqa] Titles: ["Greg A. Hill (artist)", "Martin Hodge", "John Allen (Oxford University cricketer)"]. Question: When was Martin Hodge born?
+A: {"titles": ["Greg A. Hill (artist)", "Martin Hodge", "John Allen (Oxford University cricketer)"], "answer": ["4 February 1959"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "c6805b2908a911ebbd80ac1f6bf848b6"}
+QC: When was Ivania Martinich born?
+QS: (select) [retrieve] When was Ivania Martinich born?
+A: ["Tom Dickinson", "Ivania Martinich", "Wesley Barresi", "Henry Moore (cricketer)"]
+QS: (select) [singlehop_titleqa] Titles: ["Tom Dickinson", "Ivania Martinich", "Wesley Barresi", "Henry Moore (cricketer)"]. Question: When was Ivania Martinich born?
+A: {"titles": ["Tom Dickinson", "Ivania Martinich", "Wesley Barresi", "Henry Moore (cricketer)"], "answer": ["25 July 1995"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "97954d9408b011ebbd84ac1f6bf848b6"}
+QC: Who is the director of the film Coolie No. 1 (1995 film)?
+QS: (select) [retrieve] Who is the director of the film Coolie No. 1 (1995 film)?
+A: ["Hanro Smitsman", "Coolie No. 1 (1995 film)"]
+QS: (select) [singlehop_titleqa] Titles: ["Hanro Smitsman", "Coolie No. 1 (1995 film)"]. Question: Who is the director of the film Coolie No. 1 (1995 film)?
+A: {"titles": ["Hanro Smitsman", "Coolie No. 1 (1995 film)"], "answer": ["David Dhawan"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "97954d9408b011ebbd84ac1f6bf848b6"}
+QC: Who is the director of the film The Sensational Trial?
+QS: (select) [retrieve] Who is the director of the film The Sensational Trial?
+A: ["Rachel Feldman", "The Sensational Trial"]
+QS: (select) [singlehop_titleqa] Titles: ["Rachel Feldman", "The Sensational Trial"]. Question: Who is the director of the film The Sensational Trial?
+A: {"titles": ["Rachel Feldman", "The Sensational Trial"], "answer": ["Karl Freund"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "97954d9408b011ebbd84ac1f6bf848b6"}
+QC: What is David Dhawan's nationality?
+QS: (select) [retrieve] What is David Dhawan's nationality?
+A: ["David Dhawan", "Brian Johnson (special effects artist)"]
+QS: (select) [singlehop_titleqa] Titles: ["David Dhawan", "Brian Johnson (special effects artist)"]. Question: What is David Dhawan's nationality?
+A: {"titles": ["David Dhawan", "Brian Johnson (special effects artist)"], "answer": ["India"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "97954d9408b011ebbd84ac1f6bf848b6"}
+QC: What is Karl Freund's nationality?
+QS: (select) [retrieve] What is Karl Freund's nationality?
+A: ["Karl Freund", "Ian Barry (director)"]
+QS: (select) [singlehop_titleqa] Titles: ["Karl Freund", "Ian Barry (director)"]. Question: What is Karl Freund's nationality?
+A: {"titles": ["Karl Freund", "Ian Barry (director)"], "answer": ["Germany"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "028eaef60bdb11eba7f7acde48001122"}
+QC: Who is the director of the film The Boy and the Fog?
+QS: (select) [retrieve] Who is the director of the film The Boy and the Fog?
+A: ["Ian Barry (director)", "The Boy and the Fog", "Etan Boritzer"]
+QS: (select) [singlehop_titleqa] Titles: ["Ian Barry (director)", "The Boy and the Fog", "Etan Boritzer"]. Question: Who is the director of the film The Boy and the Fog?
+A: {"titles": ["Ian Barry (director)", "The Boy and the Fog", "Etan Boritzer"], "answer": ["Roberto Gavaldón"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "028eaef60bdb11eba7f7acde48001122"}
+QC: When did Roberto Gavaldón die?
+QS: (select) [retrieve] When did Roberto Gavaldón die?
+A: ["Roberto Gavaldón", "A Face in the Fog"]
+QS: (select) [singlehop_titleqa] Titles: ["Roberto Gavaldón", "A Face in the Fog"]. Question: When did Roberto Gavaldón die?
+A: {"titles": ["Roberto Gavaldón", "A Face in the Fog"], "answer": ["September 4, 1986"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "c6f63bfb089e11ebbd78ac1f6bf848b6"}
+QC: Who is the director of the film Two Weeks?
+QS: (select) [retrieve] Who is the director of the film Two Weeks?
+A: ["Hartley Lobban", "Two Weeks with Pay"]
+QS: (select) [singlehop_titleqa] Titles: ["Hartley Lobban", "Two Weeks with Pay"]. Question: Who is the director of the film Two Weeks?
+A: {"titles": ["Hartley Lobban", "Two Weeks with Pay"], "answer": ["Maurice Campbell"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "c6f63bfb089e11ebbd78ac1f6bf848b6"}
+QC: Who is the director of the film Chhailla Babu?
+QS: (select) [retrieve] Who is the director of the film Chhailla Babu?
+A: ["Chhailla Babu", "Henry Moore (cricketer)"]
+QS: (select) [singlehop_titleqa] Titles: ["Chhailla Babu", "Henry Moore (cricketer)"]. Question: Who is the director of the film Chhailla Babu?
+A: {"titles": ["Chhailla Babu", "Henry Moore (cricketer)"], "answer": ["Joy Mukherjee"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "c6f63bfb089e11ebbd78ac1f6bf848b6"}
+QC: When was Maurice Campbell born?
+QS: (select) [retrieve] When was Maurice Campbell born?
+A: ["Maurice Campbell", "Nariman Irani"]
+QS: (select) [singlehop_titleqa] Titles: ["Maurice Campbell", "Nariman Irani"]. Question: When was Maurice Campbell born?
+A: {"titles": ["Maurice Campbell", "Nariman Irani"], "answer": ["November 28, 1919"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "c6f63bfb089e11ebbd78ac1f6bf848b6"}
+QC: When was Joy Mukherjee born?
+QS: (select) [retrieve] When was Joy Mukherjee born?
+A: ["John McMahon (Surrey and Somerset cricketer)", "Joy Mukherjee"]
+QS: (select) [singlehop_titleqa] Titles: ["John McMahon (Surrey and Somerset cricketer)", "Joy Mukherjee"]. Question: When was Joy Mukherjee born?
+A: {"titles": ["John McMahon (Surrey and Somerset cricketer)", "Joy Mukherjee"], "answer": ["24 February 1939"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "cdbb82ec0baf11ebab90acde48001122"}
+QC: Who is Boraqchin married?
+QS: (select) [retrieve] Who is Boraqchin married?
+A: ["Harry Smith (athlete)", "Boraqchin (wife of Ögedei)"]
+QS: (select) [singlehop_titleqa] Titles: ["Harry Smith (athlete)", "Boraqchin (wife of Ögedei)"]. Question: Who is Boraqchin married?
+A: {"titles": ["Harry Smith (athlete)", "Boraqchin (wife of Ögedei)"], "answer": ["Ögedei Khan"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "cdbb82ec0baf11ebab90acde48001122"}
+QC: Who is the father of Ögedei Khan?
+QS: (select) [retrieve] Who is the father of Ögedei Khan?
+A: ["John Vernou Bouvier III", "Ögedei Khan", "Barthold A. Butenschøn Sr.", "James Armour (Master mason)"]
+QS: (select) [singlehop_titleqa] Titles: ["John Vernou Bouvier III", "Ögedei Khan", "Barthold A. Butenschøn Sr.", "James Armour (Master mason)"]. Question: Who is the father of Ögedei Khan?
+A: {"titles": ["John Vernou Bouvier III", "Ögedei Khan", "Barthold A. Butenschøn Sr.", "James Armour (Master mason)"], "answer": ["Genghis Khan"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f1ccdfee094011ebbdaeac1f6bf848b6"}
+QC: When was If I Have to Stand Alone released?
+QS: (select) [retrieve] When was If I Have to Stand Alone released?
+A: ["What I Deserve", "Lifeline (The Answering Machine album)", "If I Have to Stand Alone"]
+QS: (select) [singlehop_titleqa] Titles: ["What I Deserve", "Lifeline (The Answering Machine album)", "If I Have to Stand Alone"]. Question: When was If I Have to Stand Alone released?
+A: {"titles": ["What I Deserve", "Lifeline (The Answering Machine album)", "If I Have to Stand Alone"], "answer": ["1991"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f1ccdfee094011ebbdaeac1f6bf848b6"}
+QC: When was Answering Machine Music released?
+QS: (select) [retrieve] When was Answering Machine Music released?
+A: ["Answering Machine Music", "Not Afraid to Stand Alone"]
+QS: (select) [singlehop_titleqa] Titles: ["Answering Machine Music", "Not Afraid to Stand Alone"]. Question: When was Answering Machine Music released?
+A: {"titles": ["Answering Machine Music", "Not Afraid to Stand Alone"], "answer": ["1999"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "1ceeab380baf11ebab90acde48001122"}
+QC: Who is the child of Krishna Shah?
+QS: (select) [retrieve] Who is the child of Krishna Shah?
+A: ["Ana Gruzinsky-Golitsyn", "Krishna Shah (Nepalese royal)", "Diana Weston", "Albina du Boisrouvray"]
+QS: (select) [singlehop_titleqa] Titles: ["Ana Gruzinsky-Golitsyn", "Krishna Shah (Nepalese royal)", "Diana Weston", "Albina du Boisrouvray"]. Question: Who is the child of Krishna Shah?
+A: {"titles": ["Ana Gruzinsky-Golitsyn", "Krishna Shah (Nepalese royal)", "Diana Weston", "Albina du Boisrouvray"], "answer": ["Rudra Shah"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "1ceeab380baf11ebab90acde48001122"}
+QC: Who is the child of Rudra Shah?
+QS: (select) [retrieve] Who is the child of Rudra Shah?
+A: ["Jim Ramel Kjellgren", "Constance Anne Herschel", "Rudra Shah"]
+QS: (select) [singlehop_titleqa] Titles: ["Jim Ramel Kjellgren", "Constance Anne Herschel", "Rudra Shah"]. Question: Who is the child of Rudra Shah?
+A: {"titles": ["Jim Ramel Kjellgren", "Constance Anne Herschel", "Rudra Shah"], "answer": ["Prithvipati Shah"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "13cda43c09b311ebbdb0ac1f6bf848b6"}
+QC: Which country is Serre Mourene is located in?
+QS: (select) [retrieve] Which country is Serre Mourene is located in?
+A: ["Mount Hardisty", "Betsy's Burglar", "Serre Mourene"]
+QS: (select) [singlehop_titleqa] Titles: ["Mount Hardisty", "Betsy's Burglar", "Serre Mourene"]. Question: Which country is Serre Mourene is located in?
+A: {"titles": ["Mount Hardisty", "Betsy's Burglar", "Serre Mourene"], "answer": ["Spain"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "13cda43c09b311ebbdb0ac1f6bf848b6"}
+QC: Which country is Monte Galbiga located in?
+QS: (select) [retrieve] Which country is Monte Galbiga located in?
+A: ["Monte Galbiga", "Hound's Tooth (mountain)", "Satellite tournament", "Cima Garlenda"]
+QS: (select) [singlehop_titleqa] Titles: ["Monte Galbiga", "Hound's Tooth (mountain)", "Satellite tournament", "Cima Garlenda"]. Question: Which country is Monte Galbiga located in?
+A: {"titles": ["Monte Galbiga", "Hound's Tooth (mountain)", "Satellite tournament", "Cima Garlenda"], "answer": ["Italy"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "a5995da508ab11ebbd82ac1f6bf848b6"}
+QC: Who is the director of the film Twenty Plus?
+QS: (select) [retrieve] Who is the director of the film Twenty Plus?
+A: ["Riki Gal", "Twenty Plus Two"]
+QS: (select) [singlehop_titleqa] Titles: ["Riki Gal", "Twenty Plus Two"]. Question: Who is the director of the film Twenty Plus?
+A: {"titles": ["Riki Gal", "Twenty Plus Two"], "answer": ["Joseph M. Newman"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "a5995da508ab11ebbd82ac1f6bf848b6"}
+QC: Who is the director of the film The Gal Who Took the West?
+QS: (select) [retrieve] Who is the director of the film The Gal Who Took the West?
+A: ["Querelle", "The Gal Who Took the West"]
+QS: (select) [singlehop_titleqa] Titles: ["Querelle", "The Gal Who Took the West"]. Question: Who is the director of the film The Gal Who Took the West?
+A: {"titles": ["Querelle", "The Gal Who Took the West"], "answer": ["Frederick de Cordova"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "a5995da508ab11ebbd82ac1f6bf848b6"}
+QC: When did Joseph M. Newman die?
+QS: (select) [retrieve] When did Joseph M. Newman die?
+A: ["Joseph M. Newman", "Thulasi (1987 film)"]
+QS: (select) [singlehop_titleqa] Titles: ["Joseph M. Newman", "Thulasi (1987 film)"]. Question: When did Joseph M. Newman die?
+A: {"titles": ["Joseph M. Newman", "Thulasi (1987 film)"], "answer": ["January 23, 2006"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "a5995da508ab11ebbd82ac1f6bf848b6"}
+QC: When did Fred de Cordova die?
+QS: (select) [retrieve] When did Fred de Cordova die?
+A: ["Fred de Cordova", "Le Masque de la Méduse"]
+QS: (select) [singlehop_titleqa] Titles: ["Fred de Cordova", "Le Masque de la Méduse"]. Question: When did Fred de Cordova die?
+A: {"titles": ["Fred de Cordova", "Le Masque de la Méduse"], "answer": ["September 15, 2001"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "4724c54e08e011ebbda1ac1f6bf848b6"}
+QC: Who is the director of the film When The Mad Aunts Arrive?
+QS: (select) [retrieve] Who is the director of the film When The Mad Aunts Arrive?
+A: ["Gladiators 7", "When the Mad Aunts Arrive"]
+QS: (select) [singlehop_titleqa] Titles: ["Gladiators 7", "When the Mad Aunts Arrive"]. Question: Who is the director of the film When The Mad Aunts Arrive?
+A: {"titles": ["Gladiators 7", "When the Mad Aunts Arrive"], "answer": ["Franz Josef Gottlieb"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "4724c54e08e011ebbda1ac1f6bf848b6"}
+QC: Who is the director of the film The Miracle Worker (1962 film)?
+QS: (select) [retrieve] Who is the director of the film The Miracle Worker (1962 film)?
+A: ["William Gibson (playwright)", "The Miracle Worker (1962 film)"]
+QS: (select) [singlehop_titleqa] Titles: ["William Gibson (playwright)", "The Miracle Worker (1962 film)"]. Question: Who is the director of the film The Miracle Worker (1962 film)?
+A: {"titles": ["William Gibson (playwright)", "The Miracle Worker (1962 film)"], "answer": ["Arthur Penn"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "4724c54e08e011ebbda1ac1f6bf848b6"}
+QC: When did Franz Josef Gottlieb die?
+QS: (select) [retrieve] When did Franz Josef Gottlieb die?
+A: ["Franz Josef Gottlieb", "The Miracle Worker (1936 film)"]
+QS: (select) [singlehop_titleqa] Titles: ["Franz Josef Gottlieb", "The Miracle Worker (1936 film)"]. Question: When did Franz Josef Gottlieb die?
+A: {"titles": ["Franz Josef Gottlieb", "The Miracle Worker (1936 film)"], "answer": ["23 July 2006"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "4724c54e08e011ebbda1ac1f6bf848b6"}
+QC: When did Arthur Penn die?
+QS: (select) [retrieve] When did Arthur Penn die?
+A: ["A House of Sand", "Arthur Penn"]
+QS: (select) [singlehop_titleqa] Titles: ["A House of Sand", "Arthur Penn"]. Question: When did Arthur Penn die?
+A: {"titles": ["A House of Sand", "Arthur Penn"], "answer": ["September 28, 2010"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5897ec7a086c11ebbd61ac1f6bf848b6"}
+QC: When was The Night of Tricks published?
+QS: (select) [retrieve] When was The Night of Tricks published?
+A: ["The Night of Decision", "Lampeln", "The Night of Tricks", "Love Tricks"]
+QS: (select) [singlehop_titleqa] Titles: ["The Night of Decision", "Lampeln", "The Night of Tricks", "Love Tricks"]. Question: When was The Night of Tricks published?
+A: {"titles": ["The Night of Decision", "Lampeln", "The Night of Tricks", "Love Tricks"], "answer": ["1939"]}
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5897ec7a086c11ebbd61ac1f6bf848b6"}
+QC: When was The Genealogy published?
+QS: (select) [retrieve] When was The Genealogy published?
+A: ["The Genealogy", "The Night of the White Pants"]
+QS: (select) [singlehop_titleqa] Titles: ["The Genealogy", "The Night of the White Pants"]. Question: When was The Genealogy published?
+A: {"titles": ["The Genealogy", "The Night of the White Pants"], "answer": ["1979"]}
+QS: [EOQ]

@@ -1,0 +1,238 @@
+# METADATA: {"qid": "35bf3490096d11ebbdafac1f6bf848b6"}
+QC: Are both Kurram Garhi and Trojkrsti located in the same country?
+QS: (select) [retrieve_odqa] Kurram Garhi is located in which country?
+A: {"titles": ["Kurram Garhi Hydropower Plant", "Mardan District", "Kurram Garhi"], "answer": ["Pakistan"]}
+QS: (select) [retrieve_odqa] Trojkrsti is located in which country?
+A: {"titles": ["Language Management", "Trojkrsti"], "answer": ["Republic of Macedonia"]}
+QS: (select) [multihop_titleqa] Titles: ["Kurram Garhi Hydropower Plant", "Mardan District", "Kurram Garhi", "Language Management", "Trojkrsti"]. Question: Are both Kurram Garhi and Trojkrsti located in the same country?
+A: ["no"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "e5150a5a0bda11eba7f7acde48001122"}
+QC: When did the director of film Laughter In Hell die?
+QS: (select) [retrieve_odqa] Who is the director of the film Laughter In Hell?
+A: {"titles": ["Laughter in Hell", "Albert Thompson (footballer, born 1912)"], "answer": ["Edward L. Cahn"]}
+QS: (select) [retrieve_odqa] When did Edward L. Cahn die?
+A: {"titles": ["Edward L. Cahn", "Ian Barry (director)", "Thomas Scott (diver)"], "answer": ["August 25, 1963"]}
+QS: (select) [multihop_titleqa] Titles: ["Laughter in Hell", "Albert Thompson (footballer, born 1912)", "Edward L. Cahn", "Ian Barry (director)", "Thomas Scott (diver)"]. Question: When did the director of film Laughter In Hell die?
+A: ["August 25, 1963"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f44939100bda11eba7f7acde48001122"}
+QC: What is the cause of death of Grand Duke Alexei Alexandrovich Of Russia's mother?
+QS: (select) [retrieve_odqa] Who is the mother of Grand Duke Alexei Alexandrovich of Russia?
+A: {"titles": ["Grand Duke Alexei Alexandrovich of Russia", "Grand Duke Alexei Mikhailovich of Russia"], "answer": ["Maria Alexandrovna"]}
+QS: (select) [retrieve_odqa] What is the cause of death of Maria Alexandrovna?
+A: {"titles": ["Prince Dmitri Alexandrovich of Russia", "Grand Duke Sergei Alexandrovich of Russia", "Abdul-Vahed Niyazov", "Maria Alexandrovna (Marie of Hesse)"], "answer": ["tuberculosis"]}
+QS: (select) [multihop_titleqa] Titles: ["Grand Duke Alexei Alexandrovich of Russia", "Grand Duke Alexei Mikhailovich of Russia", "Prince Dmitri Alexandrovich of Russia", "Grand Duke Sergei Alexandrovich of Russia", "Abdul-Vahed Niyazov", "Maria Alexandrovna (Marie of Hesse)"]. Question: What is the cause of death of Grand Duke Alexei Alexandrovich Of Russia's mother?
+A: ["tuberculosis"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "af8c6722088b11ebbd6fac1f6bf848b6"}
+QC: Are the directors of films The Sun of the Sleepless and Nevada (1927 film) both from the same country?
+QS: (select) [retrieve_odqa] Who is the director of the film Sun of the Sleepless?
+A: {"titles": ["The Sun of the Sleepless", "Perihelion (disambiguation)"], "answer": ["Temur Babluani"]}
+QS: (select) [retrieve_odqa] Who is the director of the film Nevada (1927 film)
+A: {"titles": ["Nevada (1927 film)", "The Sun of St. Moritz (1923 film)"], "answer": ["John Waters"]}
+QS: (select) [retrieve_odqa] John Waters is from which country?
+A: {"titles": ["John Waters (director born 1893)", "Sun of May"], "answer": ["America"]}
+QS: (select) [retrieve_odqa] Temur Babluani is from which country?
+A: {"titles": ["Temur Babluani", "The Sun of St. Moritz"], "answer": ["Georgia"]}
+QS: (select) [multihop_titleqa] Titles: ["The Sun of the Sleepless", "Perihelion (disambiguation)", "Nevada (1927 film)", "The Sun of St. Moritz (1923 film)", "John Waters (director born 1893)", "Sun of May", "Temur Babluani", "The Sun of St. Moritz"]. Question: Are the directors of films The Sun of the Sleepless and Nevada (1927 film) both from the same country?
+A: ["no"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "8727d1280bdc11eba7f7acde48001122"}
+QC: When was the director of film P.S. Jerusalem born?
+QS: (select) [retrieve_odqa] Who is the director of the film P.S. Jerusalem?
+A: {"titles": ["Ian Barry (director)", "P.S. Jerusalem"], "answer": ["Danae Elon"]}
+QS: (select) [retrieve_odqa] When was Danae Elon born?
+A: {"titles": ["Les Richards", "Danae Elon"], "answer": ["December 23, 1970"]}
+QS: (select) [multihop_titleqa] Titles: ["Ian Barry (director)", "P.S. Jerusalem", "Les Richards", "Danae Elon"]. Question: When was the director of film P.S. Jerusalem born?
+A: ["December 23, 1970"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5811079c0bdc11eba7f7acde48001122"}
+QC: When did the director of film Hypocrite (Film) die?
+QS: (select) [retrieve_odqa] Who is the director of the film Hypocrite?
+A: {"titles": ["Hypocrite (film)", "Albert Thompson (footballer, born 1912)", "Theodred II (Bishop of Elmham)", "Bill Smith (footballer, born 1897)"], "answer": ["Miguel Morayta"]}
+QS: (select) [retrieve_odqa] When did Miguel Morayta die?
+A: {"titles": ["Miguel Morayta", "Peter Levin"], "answer": ["19 June 2013"]}
+QS: (select) [multihop_titleqa] Titles: ["Hypocrite (film)", "Albert Thompson (footballer, born 1912)", "Theodred II (Bishop of Elmham)", "Bill Smith (footballer, born 1897)", "Miguel Morayta", "Peter Levin"]. Question: When did the director of film Hypocrite (Film) die?
+A: ["19 June 2013"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "79a863dc0bdc11eba7f7acde48001122"}
+QC: Where did the director of film Maddalena (1954 Film) die?
+QS: (select) [retrieve_odqa] Who is the director of the film Maddalena?
+A: {"titles": ["Ian Barry (director)", "Maddalena (1954 film)", "Brian Kennedy (gallery director)"], "answer": ["Augusto Genina"]}
+QS: (select) [retrieve_odqa] Where did Augusto Genina die?
+A: {"titles": ["Dana Blankstein", "Augusto Genina", "Peter Levin", "Olav Aaraas"], "answer": ["Rome"]}
+QS: (select) [multihop_titleqa] Titles: ["Ian Barry (director)", "Maddalena (1954 film)", "Brian Kennedy (gallery director)", "Dana Blankstein", "Augusto Genina", "Peter Levin", "Olav Aaraas"]. Question: Where did the director of film Maddalena (1954 Film) die?
+A: ["Rome"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f86b4a28091711ebbdaeac1f6bf848b6"}
+QC: Which album was released earlier, What'S Inside or Cassandra'S Dream (Album)?
+QS: (select) [retrieve_odqa] When was What's Inside released?
+A: {"titles": ["Oh Boy! (album)", "What's Inside"], "answer": ["1995"]}
+QS: (select) [retrieve_odqa] When was Cassandra's Dream (album) released?
+A: {"titles": ["The Caliph's Tea Party", "Drama of the Ages", "Early Side of Later", "Cassandra's Dream (album)"], "answer": ["2008"]}
+QS: (select) [multihop_titleqa] Titles: ["Oh Boy! (album)", "What's Inside", "The Caliph's Tea Party", "Drama of the Ages", "Early Side of Later", "Cassandra's Dream (album)"]. Question: Which album was released earlier, What'S Inside or Cassandra'S Dream (Album)?
+A: ["What's Inside"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "228546780bdd11eba7f7acde48001122"}
+QC: What is the date of birth of the director of film Best Friends (1982 Film)?
+QS: (select) [retrieve_odqa] Who is the director of the film Best Friends?
+A: {"titles": ["Ian Barry (director)", "Best Friends (1982 film)", "Terence Robinson", "Theodred II (Bishop of Elmham)"], "answer": ["Norman Jewison"]}
+QS: (select) [retrieve_odqa] When was Norman Jewison born?
+A: {"titles": ["Les Richards", "Brian Saunders (weightlifter)", "Norman Jewison"], "answer": ["July 21, 1926"]}
+QS: (select) [multihop_titleqa] Titles: ["Ian Barry (director)", "Best Friends (1982 film)", "Terence Robinson", "Theodred II (Bishop of Elmham)", "Les Richards", "Brian Saunders (weightlifter)", "Norman Jewison"]. Question: What is the date of birth of the director of film Best Friends (1982 Film)?
+A: ["July 21, 1926"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "c6805b2908a911ebbd80ac1f6bf848b6"}
+QC: Who was born first out of Martin Hodge and Ivania Martinich?
+QS: (select) [retrieve_odqa] When was Martin Hodge born?
+A: {"titles": ["Greg A. Hill (artist)", "Martin Hodge", "John Allen (Oxford University cricketer)"], "answer": ["4 February 1959"]}
+QS: (select) [retrieve_odqa] When was Ivania Martinich born?
+A: {"titles": ["Tom Dickinson", "Ivania Martinich", "Wesley Barresi", "Henry Moore (cricketer)"], "answer": ["25 July 1995"]}
+QS: (select) [multihop_titleqa] Titles: ["Greg A. Hill (artist)", "Martin Hodge", "John Allen (Oxford University cricketer)", "Tom Dickinson", "Ivania Martinich", "Wesley Barresi", "Henry Moore (cricketer)"]. Question: Who was born first out of Martin Hodge and Ivania Martinich?
+A: ["Martin Hodge"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "97954d9408b011ebbd84ac1f6bf848b6"}
+QC: Do director of film Coolie No. 1 (1995 Film) and director of film The Sensational Trial have the same nationality?
+QS: (select) [retrieve_odqa] Who is the director of the film Coolie No. 1 (1995 film)?
+A: {"titles": ["Hanro Smitsman", "Coolie No. 1 (1995 film)"], "answer": ["David Dhawan"]}
+QS: (select) [retrieve_odqa] Who is the director of the film The Sensational Trial?
+A: {"titles": ["Rachel Feldman", "The Sensational Trial"], "answer": ["Karl Freund"]}
+QS: (select) [retrieve_odqa] What is David Dhawan's nationality?
+A: {"titles": ["David Dhawan", "Brian Johnson (special effects artist)"], "answer": ["India"]}
+QS: (select) [retrieve_odqa] What is Karl Freund's nationality?
+A: {"titles": ["Karl Freund", "Ian Barry (director)"], "answer": ["Germany"]}
+QS: (select) [multihop_titleqa] Titles: ["Hanro Smitsman", "Coolie No. 1 (1995 film)", "Rachel Feldman", "The Sensational Trial", "David Dhawan", "Brian Johnson (special effects artist)", "Karl Freund", "Ian Barry (director)"]. Question: Do director of film Coolie No. 1 (1995 Film) and director of film The Sensational Trial have the same nationality?
+A: ["no"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "028eaef60bdb11eba7f7acde48001122"}
+QC: When did the director of film The Boy And The Fog die?
+QS: (select) [retrieve_odqa] Who is the director of the film The Boy and the Fog?
+A: {"titles": ["Ian Barry (director)", "The Boy and the Fog", "Etan Boritzer"], "answer": ["Roberto Gavaldón"]}
+QS: (select) [retrieve_odqa] When did Roberto Gavaldón die?
+A: {"titles": ["Roberto Gavaldón", "A Face in the Fog"], "answer": ["September 4, 1986"]}
+QS: (select) [multihop_titleqa] Titles: ["Ian Barry (director)", "The Boy and the Fog", "Etan Boritzer", "Roberto Gavaldón", "A Face in the Fog"]. Question: When did the director of film The Boy And The Fog die?
+A: ["September 4, 1986"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "c6f63bfb089e11ebbd78ac1f6bf848b6"}
+QC: Which film has the director born first, Two Weeks With Pay or Chhailla Babu?
+QS: (select) [retrieve_odqa] Who is the director of the film Two Weeks?
+A: {"titles": ["Hartley Lobban", "Two Weeks with Pay"], "answer": ["Maurice Campbell"]}
+QS: (select) [retrieve_odqa] Who is the director of the film Chhailla Babu?
+A: {"titles": ["Chhailla Babu", "Henry Moore (cricketer)"], "answer": ["Joy Mukherjee"]}
+QS: (select) [retrieve_odqa] When was Maurice Campbell born?
+A: {"titles": ["Maurice Campbell", "Nariman Irani"], "answer": ["November 28, 1919"]}
+QS: (select) [retrieve_odqa] When was Joy Mukherjee born?
+A: {"titles": ["John McMahon (Surrey and Somerset cricketer)", "Joy Mukherjee"], "answer": ["24 February 1939"]}
+QS: (select) [multihop_titleqa] Titles: ["Hartley Lobban", "Two Weeks with Pay", "Chhailla Babu", "Henry Moore (cricketer)", "Maurice Campbell", "Nariman Irani", "John McMahon (Surrey and Somerset cricketer)", "Joy Mukherjee"]. Question: Which film has the director born first, Two Weeks With Pay or Chhailla Babu?
+A: ["Two Weeks With Pay"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "cdbb82ec0baf11ebab90acde48001122"}
+QC: Who is Boraqchin (Wife Of Ögedei)'s father-in-law?
+QS: (select) [retrieve_odqa] Who is Boraqchin married?
+A: {"titles": ["Harry Smith (athlete)", "Boraqchin (wife of Ögedei)"], "answer": ["Ögedei Khan"]}
+QS: (select) [retrieve_odqa] Who is the father of Ögedei Khan?
+A: {"titles": ["John Vernou Bouvier III", "Ögedei Khan", "Barthold A. Butenschøn Sr.", "James Armour (Master mason)"], "answer": ["Genghis Khan"]}
+QS: (select) [multihop_titleqa] Titles: ["Harry Smith (athlete)", "Boraqchin (wife of Ögedei)", "John Vernou Bouvier III", "Ögedei Khan", "Barthold A. Butenschøn Sr.", "James Armour (Master mason)"]. Question: Who is Boraqchin (Wife Of Ögedei)'s father-in-law?
+A: ["Genghis Khan"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "f1ccdfee094011ebbdaeac1f6bf848b6"}
+QC: Which album was released more recently, If I Have to Stand Alone or Answering Machine Music?
+QS: (select) [retrieve_odqa] When was If I Have to Stand Alone released?
+A: {"titles": ["What I Deserve", "Lifeline (The Answering Machine album)", "If I Have to Stand Alone"], "answer": ["1991"]}
+QS: (select) [retrieve_odqa] When was Answering Machine Music released?
+A: {"titles": ["Answering Machine Music", "Not Afraid to Stand Alone"], "answer": ["1999"]}
+QS: (select) [multihop_titleqa] Titles: ["What I Deserve", "Lifeline (The Answering Machine album)", "If I Have to Stand Alone", "Answering Machine Music", "Not Afraid to Stand Alone"]. Question: Which album was released more recently, If I Have to Stand Alone or Answering Machine Music?
+A: ["Answering Machine Music"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "1ceeab380baf11ebab90acde48001122"}
+QC: Who is the grandchild of Krishna Shah (Nepalese Royal)?
+QS: (select) [retrieve_odqa] Who is the child of Krishna Shah?
+A: {"titles": ["Ana Gruzinsky-Golitsyn", "Krishna Shah (Nepalese royal)", "Diana Weston", "Albina du Boisrouvray"], "answer": ["Rudra Shah"]}
+QS: (select) [retrieve_odqa] Who is the child of Rudra Shah?
+A: {"titles": ["Jim Ramel Kjellgren", "Constance Anne Herschel", "Rudra Shah"], "answer": ["Prithvipati Shah"]}
+QS: (select) [multihop_titleqa] Titles: ["Ana Gruzinsky-Golitsyn", "Krishna Shah (Nepalese royal)", "Diana Weston", "Albina du Boisrouvray", "Jim Ramel Kjellgren", "Constance Anne Herschel", "Rudra Shah"]. Question: Who is the grandchild of Krishna Shah (Nepalese Royal)?
+A: ["Prithvipati Shah"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "13cda43c09b311ebbdb0ac1f6bf848b6"}
+QC: Are both mountains, Serre Mourene and Monte Galbiga, located in the same country?
+QS: (select) [retrieve_odqa] Which country is Serre Mourene is located in?
+A: {"titles": ["Mount Hardisty", "Betsy's Burglar", "Serre Mourene"], "answer": ["Spain"]}
+QS: (select) [retrieve_odqa] Which country is Monte Galbiga located in?
+A: {"titles": ["Monte Galbiga", "Hound's Tooth (mountain)", "Satellite tournament", "Cima Garlenda"], "answer": ["Italy"]}
+QS: (select) [multihop_titleqa] Titles: ["Mount Hardisty", "Betsy's Burglar", "Serre Mourene", "Monte Galbiga", "Hound's Tooth (mountain)", "Satellite tournament", "Cima Garlenda"]. Question: Are both mountains, Serre Mourene and Monte Galbiga, located in the same country?
+A: ["no"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "a5995da508ab11ebbd82ac1f6bf848b6"}
+QC: Which film has the director died later, The Gal Who Took the West or Twenty Plus Two?
+QS: (select) [retrieve_odqa] Who is the director of the film Twenty Plus?
+A: {"titles": ["Riki Gal", "Twenty Plus Two"], "answer": ["Joseph M. Newman"]}
+QS: (select) [retrieve_odqa] Who is the director of the film The Gal Who Took the West?
+A: {"titles": ["Querelle", "The Gal Who Took the West"], "answer": ["Frederick de Cordova"]}
+QS: (select) [retrieve_odqa] When did Joseph M. Newman die?
+A: {"titles": ["Joseph M. Newman", "Thulasi (1987 film)"], "answer": ["January 23, 2006"]}
+QS: (select) [retrieve_odqa] When did Fred de Cordova die?
+A: {"titles": ["Fred de Cordova", "Le Masque de la Méduse"], "answer": ["September 15, 2001"]}
+QS: (select) [multihop_titleqa] Titles: ["Riki Gal", "Twenty Plus Two", "Querelle", "The Gal Who Took the West", "Joseph M. Newman", "Thulasi (1987 film)", "Fred de Cordova", "Le Masque de la Méduse"]. Question: Which film has the director died later, The Gal Who Took the West or Twenty Plus Two?
+A: ["Twenty Plus Two"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "4724c54e08e011ebbda1ac1f6bf848b6"}
+QC: Which film has the director died earlier, When The Mad Aunts Arrive or The Miracle Worker (1962 Film)?
+QS: (select) [retrieve_odqa] Who is the director of the film When The Mad Aunts Arrive?
+A: {"titles": ["Gladiators 7", "When the Mad Aunts Arrive"], "answer": ["Franz Josef Gottlieb"]}
+QS: (select) [retrieve_odqa] Who is the director of the film The Miracle Worker (1962 film)?
+A: {"titles": ["William Gibson (playwright)", "The Miracle Worker (1962 film)"], "answer": ["Arthur Penn"]}
+QS: (select) [retrieve_odqa] When did Franz Josef Gottlieb die?
+A: {"titles": ["Franz Josef Gottlieb", "The Miracle Worker (1936 film)"], "answer": ["23 July 2006"]}
+QS: (select) [retrieve_odqa] When did Arthur Penn die?
+A: {"titles": ["A House of Sand", "Arthur Penn"], "answer": ["September 28, 2010"]}
+QS: (select) [multihop_titleqa] Titles: ["Gladiators 7", "When the Mad Aunts Arrive", "William Gibson (playwright)", "The Miracle Worker (1962 film)", "Franz Josef Gottlieb", "The Miracle Worker (1936 film)", "A House of Sand", "Arthur Penn"]. Question: Which film has the director died earlier, When The Mad Aunts Arrive or The Miracle Worker (1962 Film)?
+A: ["When The Mad Aunts Arrive"]
+QS: [EOQ]
+
+
+# METADATA: {"qid": "5897ec7a086c11ebbd61ac1f6bf848b6"}
+QC: Which film came out first, The Night Of Tricks or The Genealogy?
+QS: (select) [retrieve_odqa] When was The Night of Tricks published?
+A: {"titles": ["The Night of Decision", "Lampeln", "The Night of Tricks", "Love Tricks"], "answer": ["1939"]}
+QS: (select) [retrieve_odqa] When was The Genealogy published?
+A: {"titles": ["The Genealogy", "The Night of the White Pants"], "answer": ["1979"]}
+QS: (select) [multihop_titleqa] Titles: ["The Night of Decision", "Lampeln", "The Night of Tricks", "Love Tricks", "The Genealogy", "The Night of the White Pants"]. Question: Which film came out first, The Night Of Tricks or The Genealogy?
+A: ["The Night Of Tricks"]
+QS: [EOQ]
